@@ -25,9 +25,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:sps246@nyu.edu"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/sonali-shukla-mcdermid-28692b44"}
+  - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=6Hb_Se0AAAAJ&hl=en&oi=ao"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
