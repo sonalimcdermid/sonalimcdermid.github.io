@@ -27,7 +27,7 @@ layout: post
     overflow: auto;
   }
   .profile-pic {
-    float: left;
+    float: right;
     margin-right: 20px;
     position: relative;
     z-index: 1;
