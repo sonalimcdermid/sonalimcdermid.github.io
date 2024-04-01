@@ -28,6 +28,8 @@ Emma is a senior at NYU double majoring in Environmental Studies and Film. Her c
 
 
 
+
+
 ## Komal Sharma
 
 <img align="left" width="150" height="200" src="/assets/Komal-profile-pic.jpg">
