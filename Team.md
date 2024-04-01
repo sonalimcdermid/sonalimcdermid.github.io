@@ -4,6 +4,12 @@ permalink: "/Team/"
 layout: page
 ---
 
+<style>
+    h2 {
+        text-align: center;
+    }
+</style>
+
 ## Margaux Alfare
 
 <div style="overflow: auto;">
