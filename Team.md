@@ -4,8 +4,8 @@ permalink: "/Team/"
 layout: page
 ---
 
-<div style="overflow: auto;">
-    <img style="float: left; margin-right: 20px;" width="150" height="200" src="/assets/Margaux-profile-pic.png">
+<div style="display: flex; align-items: flex-start;">
+    <img style="margin-right: 20px;" width="150" height="200" src="/assets/Margaux-profile-pic.png">
     <div>
         <h2>Margaux Alfare</h2>
         <p>
@@ -15,7 +15,6 @@ layout: page
 </div>
 
 ***
-
 ## Margaux Alfare
 
 
