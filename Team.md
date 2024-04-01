@@ -18,12 +18,12 @@ Anika is an undergraduate student, originally from Rome, New York, pursuing her 
 
 ## Emma Riggatti
 
-![Emma Profile Pic](/assets/Emma-profile-pic.jpg)
+<img src="/assets/Emma-profile-pic.jpg" width="300" height="400">
 
 Emma is a senior at NYU double majoring in Environmental Studies and Film. Her current research involves using land-system models to explore the impact of drought on ecosystem carbon dynamics in the West African Sahel. Her academic interests lie in understanding how the competing environmental factors on stomatal conductance influence ecosystem energy, carbon, and water exchanges as well as the implications for human systems. She will be attending UCSB starting Fall 2024 to pursue a Ph.D. in Environmental Science and Management. 
 
 ## Komal Sharma
 
-![Komal Profile Pic](/assets/Komal-profile-pic.jpg)
+<img src="/assets/Komal-profile-pic.jpg" width="300" height="400">
 
 Komal (she/her/hers) comes from Pune, India. Her background is in Computer Science and she worked as a Data Engineer at Citibank for 4 years. Currently, she is studying Data Science at the NYU Center for Data Science. Her long-term aspiration is to get back to the Finance world as a seasoned Data Scientist. She is a planner at heart, love to code and her research interests include Natural Language Processing, Climate Change and Social Sciences. When not glued to the computer screen, Komal likes reading books or trying her hand at still-life photography!
