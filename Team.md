@@ -6,9 +6,9 @@ layout: page
 
 ## Margaux Alfare
 
-<p align="padding-right: 50">
-  <img align="left" width="150" height="200" src="/assets/Margaux-profile-pic.png">
-</p> 
+<div style="padding-right: 50px;">
+    <img align="left" width="150" height="200" src="/assets/Margaux-profile-pic.png">
+</div>
 
 Margaux is an early-career climate professional, currently serving as an Associate Research Scientist at NYU's Environmental Studies Department, where she uses programming languages like Matlab for statistical analyses on geospatial data, creates visuals for scientific publications, and conducts literature reviews on key research topics. She recently graduated from the MA in Climate and Society from Columbia University’s Climate School. Margaux's research expertise includes topics like industry decarbonization, urban resilience, and coastal adaptation strategies. She holds a BA in Environment and Political Science from McGill University, and previously worked as a Community Outreach Coordinator in a homeless shelter before relocating in NYC.
 
