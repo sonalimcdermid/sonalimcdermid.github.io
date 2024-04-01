@@ -6,7 +6,7 @@ layout: page
 
 ## Margaux Alfare
 
-<p style="padding-right: 50">
+<p align="padding-right: 50">
   <img align="left" width="150" height="200" src="/assets/Margaux-profile-pic.png">
 </p> 
 
