@@ -14,7 +14,7 @@ Margaux is an early-career climate professional, currently serving as an Associa
 
 ## Anika Amidon
 
-<img src="/assets/Anika-profile-pic.jpg" width="300" height="400">
+<img align="left" width="300" height="400" src="/assets/Anika-profile-pic.jpg">
 
 Anika is an undergraduate student, originally from Rome, New York, pursuing her degree in Environmental Studies with a minor in Biology. For her senior thesis, she is currently working on a case study of best-use climate mitigation strategies in India across primary mitigation sectors and dimensions of potential trade-offs and co-benefits. Following graduation, Anika plans to continue her studies and research at Cambridge University, joining the Crop Sciences program within their School of Biological Sciences. She hope to spring from this study into the field of agricultural research, specifically working within plant genetics to explore climate-resilient crop adaptations, applying this to dynamics of food security. Beyond her academic pursuits, Anika enjoys teaching and taking yoga and ballet classes, improving her language skills through immersive travel, and spending time outdoors hiking, swimming, reading, and gardening with her friends and family.
 
