@@ -4,7 +4,6 @@ permalink: "/Team/"
 layout: page
 ---
 
-## 
 <h2 style="color:DodgerBlue;">Margaux Alfare</h2>
 
 <div style="overflow: auto;">
