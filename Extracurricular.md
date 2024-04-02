@@ -8,6 +8,7 @@ layout: page
 
 CLIMATE AND THE ARTS
 <br>
+<br>
 <a href="https://www.superheroclubhouse.org/">Superhero Clubhouse</a> - Eco-theater to enact climate and environmental justice, cultivate hope, and inspire a thriving future. I have served as a Core Member since 2019.
 
 <a href="https://www.jumpstar.love/about">Jump!Star Art Initiative</a> - Supported by the National Endowment for the Arts “Our Town” grant and organizational partners in several cities, Jump!Star been hosting a series of themed dream-storming sessions called “Constellates,” which focus on the changing North Star as a way to engage in thinking deeply about the future and creating cultural customs (songs, dances, food, regalia, ritual objects) to welcome it. I have served as a consulting scientist on climate and agriculture: http://www.jumpstar.love/satellites.
