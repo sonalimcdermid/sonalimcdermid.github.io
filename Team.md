@@ -7,7 +7,7 @@ layout: page
 ## Margaux Alfare 
 ## <span style="color:blue;">Margaux Alfare</span>
 
-<span style="color:blue">Margaux Alfare</span>
+<span style="color:DodgerBlue">Margaux Alfare</span>
 
 <div style="overflow: auto;">
     <img style="float: left; margin-right: 20px;" width="175" height="225" src="/assets/Margaux-profile-pic.png">
