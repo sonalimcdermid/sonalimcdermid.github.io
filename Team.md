@@ -6,15 +6,6 @@ layout: page
 
 ## Margaux Alfare 
 
-<style>
-  .blue-header {
-    color: DodgerBlue;
-  }
-</style>
-
-## <span class="blue-header">Margaux Alfare</span>
-
-
 <div style="overflow: auto;">
     <img style="float: left; margin-right: 20px;" width="175" height="225" src="/assets/Margaux-profile-pic.png">
     <div>
