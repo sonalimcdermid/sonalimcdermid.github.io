@@ -16,39 +16,7 @@ div {
   margin-left: 80px;
   background-color: lightblue;
 }
-</style>
-</head>
-<body>
   
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Sonali's Profile</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-  .banner {
-    background-color: purple;
-    padding: 20px;
-    color: white;
-    text-align: center;
-  }
-  .content {
-    background-color: #f0f0f0;
-    padding: 20px;
-    overflow: auto;
-  }
-  .profile-pic {
-    float: right;
-    margin-right: 100px;
-    position: relative;
-    z-index: 1;
-  }
 </style>
 </head>
 <body>
