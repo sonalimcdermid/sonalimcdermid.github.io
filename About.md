@@ -3,6 +3,23 @@ title: "About"
 permalink: "/about/"
 layout: post
 ---
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  border: 1px lightblue;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+  
 <!DOCTYPE html>
 <html lang="en">
 <head>
