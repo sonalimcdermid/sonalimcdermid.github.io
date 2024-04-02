@@ -28,7 +28,7 @@ layout: post
   }
   .profile-pic {
     float: right;
-    margin-right: 20px;
+    margin-right: 100px;
     position: relative;
     z-index: 1;
   }
