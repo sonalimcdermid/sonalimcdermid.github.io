@@ -4,7 +4,7 @@ permalink: "/Team/"
 layout: page
 ---
 
-## Margaux Alfare 
+## <span style="color: MediumSeaGreen;">Margaux Alfare</span>
 
 <div style="overflow: auto;">
     <img style="float: left; margin-right: 20px;" width="175" height="225" src="/assets/Margaux-profile-pic.png">
