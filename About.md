@@ -24,7 +24,7 @@ div {
     <h1>Sonali</h1>
   </div>
   <div class="content">
-    <p align="center">
+    <p align="right">
       <img class="profile-pic" width="300" height="200" src="/assets/sonali-profile-pic.jpg">
     </p>
     </div>
