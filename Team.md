@@ -5,9 +5,10 @@ layout: page
 ---
 
 ## Margaux Alfare 
+
 ## <span style="color:blue;">Margaux Alfare</span>
 
-## <span style="color: DodgerBlue;">Margaux Alfare</span>
+## <font color="blue">Margaux Alfare</font>
 
 
 <div style="overflow: auto;">
