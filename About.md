@@ -12,8 +12,8 @@ div {
   border: 1px lightblue;
   margin-top: 100px;
   margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
+  margin-right: 0px;
+  margin-left: 0px;
   background-color: lightblue;
 }
   
