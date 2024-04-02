@@ -16,7 +16,7 @@ layout: page
     <div style="clear: both;"></div>
 </div>
 
-## Anika Amidon
+## <span style="color: MediumSeaGreen;">Anika Amidon</span>
 
 <div style="overflow: auto;">
     <img style="float: left; margin-right: 20px;" width="175" height="225"  src="/assets/Anika-profile-pic.jpg">
@@ -28,11 +28,12 @@ layout: page
     <div style="clear: both;"></div>
 </div>
 
-## Emma Riggatti
+## <span style="color: MediumSeaGreen;">Emma Riggatti</span>
 
 <div style="overflow: auto;">
     <img style="float: left; margin-right: 20px;" width="175" height="225"  src="/assets/Emma-profile-pic.jpg">
-    <div>
+    ## <span style="color: MediumSeaGreen;">Anika Amidon</span>
+<div>
         <p>
             Emma is a senior at NYU double majoring in Environmental Studies and Film. Her current research involves using land-system models to explore the impact of drought on ecosystem carbon dynamics in the West African Sahel. Her academic interests lie in understanding how the competing environmental factors on stomatal conductance influence ecosystem energy, carbon, and water exchanges as well as the implications for human systems. She will be attending UCSB starting Fall 2024 to pursue a Ph.D. in Environmental Science and Management.
     </p>
@@ -41,7 +42,7 @@ layout: page
 </div>
 
 
-## Komal Sharma
+## <span style="color: MediumSeaGreen;">Komal Sharma</span>
 
 <div style="overflow: auto;">
     <img style="float: left; margin-right: 20px;" width="175" height="225" src="/assets/Komal-profile-pic.jpg">
