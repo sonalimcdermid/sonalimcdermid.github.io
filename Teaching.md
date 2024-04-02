@@ -4,7 +4,7 @@ permalink: "/Teaching/"
 layout: page
 ---
 
-In 2018, I received NYU’s Golden Dozen Teaching Award
+In 2018, I received NYU’s Golden Dozen Teaching Award <a href="https://cas.nyu.edu/teaching-awards.html#golden-dozen">Golden Dozen Teaching Award</a>
 
 ENVST-UA 226.001 Climate Change*
 
