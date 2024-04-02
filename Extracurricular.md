@@ -6,7 +6,7 @@ layout: page
 
 ## Other activities
 
-CLIMATE AND THE ARTS
+<span style="color:MediumSeaGreen">CLIMATE AND THE ARTS</span>
 <br>
 <br>
 <a href="https://www.superheroclubhouse.org/">Superhero Clubhouse</a> - Eco-theater to enact climate and environmental justice, cultivate hope, and inspire a thriving future. I have served as a Core Member since 2019.
