@@ -9,7 +9,7 @@ layout: post
 <head>
 <style>
 div {
-  border: 1px lightblue;
+  border: 0px lightblue;
   margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 0px;
