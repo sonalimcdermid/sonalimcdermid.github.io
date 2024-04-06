@@ -99,4 +99,3 @@ McDermid, S.S., R. Mahmood, M. Hayes, J. E. Bell, Z. Lieberman. (2021) Minimizin
 
 ## Collaborators
 
-
