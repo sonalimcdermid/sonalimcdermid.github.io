@@ -102,25 +102,33 @@ McDermid, S.S., R. Mahmood, M. Hayes, J. E. Bell, Z. Lieberman. (2021) Minimizin
 <div class="container">
   <ul class="list">
     <li>
-      <div class="element">NASA GODDARD INSTITUTE FOR SPACE STUDIES</div>
-      <div class="description">My work here centers on helping to develop, test, and apply the GISS ModelE global climate model, specifically for problems related to altered surface (terrestrial and ocean) conditions and their interactions with regional and global atmospheric circulation. My recent work has focused on evaluating the regional and global climate impacts of agricultural land management, particularly across South Asia.</div>
+      <div class="element-container">
+        <div class="element">NASA GODDARD INSTITUTE FOR SPACE STUDIES</div>
+        <div class="description">My work here centers on helping to develop, test, and apply the GISS ModelE global climate model, specifically for problems related to altered surface (terrestrial and ocean) conditions and their interactions with regional and global atmospheric circulation. My recent work has focused on evaluating the regional and global climate impacts of agricultural land management, particularly across South Asia.</div>
+      </div>
     </li>
     <li>
-      <div class="element">COLUMBIA UNIVERSITY</div>
-      <div class="description">I work with researchers within the Earth Institute to combine remote-sensing (and other) analyses with modeling techniques to evaluate the resilience of varied agro-ecosystems in the face of global environmental change. My current projects bring these assessments to Madhya Pradesh, India, where we are working with a local NGO to understand regional farmer decision making and potential adaptation strategies.</div>
+      <div class="element-container">
+        <div class="element">COLUMBIA UNIVERSITY</div>
+        <div class="description">I work with researchers within the Earth Institute to combine remote-sensing (and other) analyses with modeling techniques to evaluate the resilience of varied agro-ecosystems in the face of global environmental change. My current projects bring these assessments to Madhya Pradesh, India, where we are working with a local NGO to understand regional farmer decision making and potential adaptation strategies.</div>
+      </div>
     </li>
     <li>
-      <div class="element">THE AGRICULTURAL MODEL INTERCOMPARISON AND IMPROVEMENT PROJECT</div>
-      <div class="description">I have served as the UKAID-funded AgMIP Climate Co-Lead, and Research Resource Person for our South Asian regional research assessment of the impact of climate change on small-holder farming systems. My work focuses on southern India, but I have also worked with our teams spanning South Asia and Sub-Saharan Africa. I also co-lead initial development of the Coordinated Climate-Crop Modeling Project (C3MP), which is engaging the global community of crop modelers to contribute experiments evaluating the sensitivity of many crops and models to changes in Carbon Dioxide Concentration, Temperature, and Water. Currently, I am co-leading a new AgMIP integrated assessment of the System of Rice Intensification in Tamil Nadu, India.</div>
+      <div class="element-container">
+        <div class="element">THE AGRICULTURAL MODEL INTERCOMPARISON AND IMPROVEMENT PROJECT</div>
+        <div class="description">I have served as the UKAID-funded AgMIP Climate Co-Lead, and Research Resource Person for our South Asian regional research assessment of the impact of climate change on small-holder farming systems. My work focuses on southern India, but I have also worked with our teams spanning South Asia and Sub-Saharan Africa. I also co-lead initial development of the Coordinated Climate-Crop Modeling Project (C3MP), which is engaging the global community of crop modelers to contribute experiments evaluating the sensitivity of many crops and models to changes in Carbon Dioxide Concentration, Temperature, and Water. Currently, I am co-leading a new AgMIP integrated assessment of the System of Rice Intensification in Tamil Nadu, India.</div>
+      </div>
     </li>
     <li>
-      <div class="element">ADDITIONAL COLLABORATORS AND CONNECTIONS</div>
-      <div class="description">Tamil Nadu Agricultural University
+      <div class="element-container">
+        <div class="element">ADDITIONAL COLLABORATORS AND CONNECTIONS</div>
+        <div class="description">Tamil Nadu Agricultural University
 International Crops Research for the Semi-Arid Tropics
 Indian Council on Agricultural Research
 Foundation for Ecological Security
 Oregon State University
 NYU Dept. of Nutrition, Food Studies and Public Health</div>
+      </div>
     </li>
   </ul>
 </div>
