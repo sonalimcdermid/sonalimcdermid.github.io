@@ -99,31 +99,6 @@ McDermid, S.S., R. Mahmood, M. Hayes, J. E. Bell, Z. Lieberman. (2021) Minimizin
 
 ## Collaborators
 
-.container {
-  width: 100%;
-}
-
-.list {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-
-.list li {
-  margin-bottom: 20px;
-}
-
-.element {
-  background-color: #e0e0e0;
-  padding: 10px;
-}
-
-.description {
-  background-color: #f0f0f0;
-  padding: 10px;
-  word-wrap: break-word;
-}
-
 <div class="container">
   <ul class="list">
     <li>
