@@ -102,7 +102,7 @@ McDermid, S.S., R. Mahmood, M. Hayes, J. E. Bell, Z. Lieberman. (2021) Minimizin
 <div class="container">
   <ul class="list">
     <li>
-        <div class="element">NASA GODDARD INSTITUTE FOR SPACE STUDIES</div>
+        <div class="element" style="color:MediumSeaGreen">NASA GODDARD INSTITUTE FOR SPACE STUDIES</div>
         <span class="description">My work here centers on helping to develop, test, and apply the GISS ModelE global climate model, specifically for problems related to altered surface (terrestrial and ocean) conditions and their interactions with regional and global atmospheric circulation. My recent work has focused on evaluating the regional and global climate impacts of agricultural land management, particularly across South Asia.</span>
       </div>
     </li>
