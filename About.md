@@ -4,19 +4,6 @@ permalink: "/about/"
 layout: post
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-div {
-  border: 0px lightblue;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 0px;
-  margin-left: 0px;
-  background-color: lightblue;
-}
-  
 </style>
 </head>
 <body>
