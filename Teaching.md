@@ -19,4 +19,4 @@ ENVST-UA 100.001 Environmental System Science
 *Courses I have designed/developed
  
 
-For more information on majoring in Environmental Studies, please visit <a href="https://as.nyu.edu/environment/undergraduate-program/program-of-study.html">Undergraduate Program of Study</a> on our departmental webpage.
+For more information on majoring in Environmental Studies, please visit the <a href="https://as.nyu.edu/environment/undergraduate-program/program-of-study.html">Undergraduate Program of Study</a> on our departmental webpage.
