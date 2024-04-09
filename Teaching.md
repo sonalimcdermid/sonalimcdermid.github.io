@@ -8,7 +8,7 @@ In 2018, I received NYU’s Golden Dozen Teaching Award <a href="https://cas.nyu
 
 ENVST-UA 226.001 <a href="https://as.nyu.edu/content/dam/nyu-as/environment/documents/Syllabi/course-archive-%E2%80%94-syllabi/ENVST-UA_226_Climate_Change_McDermid_S20.pdf">Climate Change</a>* 
 
-ENVST-UA 331.001 Food Production and Climate Change*
+ENVST-UA 331.001 <a href="https://as.nyu.edu/content/dam/nyu-as/environment/documents/Syllabi/course-archive-%E2%80%94-syllabi/ENVST-UA_331_Food_Production_Climate_Change_McDermid_S20.pdf">Food Production and Climate Change</a>*
 
 ENVST-UA 310.001 Environmental Quantitative Methods*
 
