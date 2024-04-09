@@ -12,7 +12,7 @@ ENVST-UA 331.001 Food Production and Climate Change*
 
 ENVST-UA 310.001 Environmental Quantitative Methods*
 
-ENVST-UA 300.001 Climate and Life (forthcoming)*
+ENVST-UA 300.001 <a href="https://as.nyu.edu/environment/undergraduate-program/program-of-study.html">Climate and Life </a> (forthcoming)*
 
 ENVST-UA 100.001 Environmental System Science
 
