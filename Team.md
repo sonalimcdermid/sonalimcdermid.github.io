@@ -58,7 +58,6 @@ I hold a B.A. in Physics from NYU (2006), and an M.A. (2008), M.Phil. (2011), an
     <div style="clear: both;"></div>
 </div>
 
-
 ## <span style="color: MediumSeaGreen;">Komal Sharma</span>
 
 <div style="overflow: auto;">
