@@ -18,9 +18,9 @@ My research is broadly separated by the following questions:
 
 4) How do we better and more equitably represent the distributional impacts of environmental change on countries, species (human and non-human animals), and ecosystems?
 
-## Findings of major projects under these themes
+**Findings of major projects under these themes**
 
-1) How does land management, particularly agriculture, impact regional climates and drive environmental change?
+### 1) How does land management, particularly agriculture, impact regional climates and drive environmental change?
    
 <div style="overflow: auto;">
     <img style="float: left; margin-right: 20px;" width="300" height="200" src="/assets/graph_1.png">
@@ -33,7 +33,7 @@ Most agricultural soils have experienced substantial soil organic carbon losses 
     <div style="clear: both;"></div>   
 </div>
 
-## Distinct influences of land-cover and land-management on seasonal climate
+**Distinct influences of land-cover and land-management on seasonal climate**
 [image]
    <div>   
         <p> 
@@ -43,9 +43,9 @@ Anthropogenic land-use and land-cover change is primarily represented in climate
     </div>
 
 
-2) How do climate and environmental change impact terrestrial ecosystems, particularly agroecosystem production and resulting food security, particularly in monsoonal climates, drylands, and the most vulnerable regions?
+### 2) How do climate and environmental change impact terrestrial ecosystems, particularly agroecosystem production and resulting food security, particularly in monsoonal climates, drylands, and the most vulnerable regions?
 
-## The impact of flooding on food security across Africa
+**The impact of flooding on food security across Africa**
 [image]
 <div>
    <p>
@@ -54,7 +54,7 @@ Anthropogenic land-use and land-cover change is primarily represented in climate
 <a href="https://www.pnas.org/doi/full/10.1073/pnas.2119399119#:~:text=Floods%20impact%20food%20security%20for,insecurity%20during%20our%20study%20period">Reed et al 2022</a>
 </div>
 
-## Moisture and temperature influences on nonlinear vegetation trends in Serengeti National Park
+**Moisture and temperature influences on nonlinear vegetation trends in Serengeti National Park**
 [image]
 <div>
    <p>
@@ -66,9 +66,9 @@ Anthropogenic land-use and land-cover change is primarily represented in climate
 <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac1a37/meta">Huang, McDermid et al 2021</a>
 </div>
 
-3) What is the meaningful solution space for meeting land management goals, particularly inclusive of food security, climate adaptation and climate mitigation? 
+### 3) What is the meaningful solution space for meeting land management goals, particularly inclusive of food security, climate adaptation and climate mitigation? 
 
-## The Impact of Drought on Terrestrial Carbon in the West African Sahel: Implications for Natural Climate Solutions
+**The Impact of Drought on Terrestrial Carbon in the West African Sahel: Implications for Natural Climate Solutions**
 [image]
 <div>
    <p>
@@ -82,7 +82,7 @@ Anthropogenic land-use and land-cover change is primarily represented in climate
 Rigatti et al., (under review)
 </div>
 
-## Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam
+**Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam**
 [image]
 <div>
    <p> 
@@ -105,9 +105,9 @@ Methods: We conduct an integrated assessment using a suite of coupled crop-soil 
 Li, McDermid and Valdivia (under review)
 <div/>
    
-4) How do we better and more equitably represent the distributional impacts of environmental change on countries, species (human and non-human animals), and ecosystems?
+### 4) How do we better and more equitably represent the distributional impacts of environmental change on countries, species (human and non-human animals), and ecosystems?
 
-## Regional equity in high-impact climate research 
+**Regional equity in high-impact climate research**
 [image]
 <div>
    <p>
