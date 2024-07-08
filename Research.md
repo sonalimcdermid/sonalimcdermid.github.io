@@ -21,11 +21,10 @@ My research is broadly separated by the following questions:
 ## <span style="color: MediumSeaGreen;">Findings of major projects under these themes</span>
 
 ### 1) How does land management, particularly agriculture, impact regional climates and drive environmental change?
-<div>
+
 <p align="center">
   <img width="460" height="300" src="/assets/graph_1.png">
 </p>
-<div/>
 
 <div>
   <p> 
