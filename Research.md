@@ -34,6 +34,20 @@ McDermid et al 2022: <a href="https://journals.ametsoc.org/view/journals/eint/26
     <div style="clear: both;"></div>   
 </div>
 
+## Distinct influences of land-cover and land-management on seasonal climate
+[image]
+<div style="overflow: auto;">
+    <img style="float: left; margin-right: 20px;" width="300" height="200" src="/assets/graph_1.png">
+    <div>
+        <p> 
+Anthropogenic land-use and land-cover change is primarily represented in climate model simulations through prescribed transitions from natural-vegetation to cropland or pasture. However, recent studies have demonstrated that land-management practices, especially irrigation, have distinct climate impacts. Here, we disentangle the seasonal climate impacts of land-cover change and irrigation across areas of high agricultural intensity using climate simulations with three different land-surface scenarios: 1) natural-vegetation cover/no irrigation, 2) Year 2000 crop-cover/no irrigation, and 3) Year 2000 crop-cover and irrigation rates. We find that irrigation substantially amplifies land-cover induced climate impacts but has opposing effects across certain regions. Irrigation mostly causes surface cooling, which substantially amplifies land-cover change-induced cooling in most regions except over Central, West and South Asia, where it reverses land-cover change induced warming. Despite increases in net surface radiation in some regions, this cooling is associated with enhancement of latent relative to sensible heat fluxes by irrigation. Similarly, irrigation substantially enhances the wetting influence of land-cover change over most regions including West Asia and the Mediterranean. The most notable contrasting impacts of these forcings on precipitation occur over South Asia, where irrigation offsets the wetting influence of land-cover during the monsoon season. Changes in regional circulations and moist static energy induced by these forcings contribute to their precipitation impacts and are associated with differential changes in surface and tropospheric temperature gradients and moisture availability. These results emphasize the importance of including irrigation forcing to evaluate the combined climate effects of land-surface changes for attributing historical changes and managing future impacts.
+
+Singh, McDermid 2018: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018JD028874"/a>
+        </p>
+    </div>
+    <div style="clear: both;"></div>   
+</div>
+
 ## Overview of research
 
 My research focuses on understanding interactions and feedbacks between regional and global climates, climate change, and agricultural land and resource use. To understand these interactions, I utilize a variety of tools and datasets, including global climate models, emerging agricultural landuse data products, and process-based crop models. With my global network of interdisciplinary collaborators, I have undertaken numerous climate-agroecosystem studies that range from quantifying the effects of agricultural land management on regional climate systems to bracketing climate change impacts on small-holder livelihoods. While my work is situated in a global context, I maintain a particular emphasis on the semi-arid tropics -- a vast, highly-populated and rapidly-developing domain that is acutely vulnerable to global environmental change.     
