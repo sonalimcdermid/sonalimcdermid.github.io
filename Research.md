@@ -46,7 +46,7 @@ My research is broadly separated by the following questions:
 
 ### 2) How do climate and environmental change impact terrestrial ecosystems, particularly agroecosystem production and resulting food security, particularly in monsoonal climates, drylands, and the most vulnerable regions?
 
-<div>**The impact of flooding on food security across Africa**</div>
+**The impact of flooding on food security across Africa**
 <p>[image]</p>
 
 <div>
@@ -57,7 +57,9 @@ My research is broadly separated by the following questions:
 </div>
 
 **Moisture and temperature influences on nonlinear vegetation trends in Serengeti National Park**
-[image]
+
+<p>[image]</p>
+
 <div>
    <p>
       Monthly plots of LAI3g Trend categorization: Brown = monotonic browning; GtoB = reversal from greening to browning; BtoG = reversal from browning to greening; Green = monotonic greening; NaN denotes the remaining Trend has more than one extrema and cannot be classified in any of these categories; overplotted on some grid cells is black hatch lines, denoting that our surrogate test indicates the monotonic greening or browning Trend is significant at 0.05 level.
