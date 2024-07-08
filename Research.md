@@ -18,7 +18,7 @@ My research is broadly separated by the following questions:
 
 4) How do we better and more equitably represent the distributional impacts of environmental change on countries, species (human and non-human animals), and ecosystems?
 
-**Findings of major projects under these themes**
+# Findings of major projects under these themes
 
 ### 1) How does land management, particularly agriculture, impact regional climates and drive environmental change?
    
