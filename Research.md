@@ -46,7 +46,7 @@ My research is broadly separated by the following questions:
 
 ### 2) How do climate and environmental change impact terrestrial ecosystems, particularly agroecosystem production and resulting food security, particularly in monsoonal climates, drylands, and the most vulnerable regions?
 
-**The impact of flooding on food security across Africa**
+<p>**The impact of flooding on food security across Africa**<p/>
 <p>[image]</p>
 
 <div>
