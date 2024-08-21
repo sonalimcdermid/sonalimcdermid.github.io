@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-“Whoever owns land has thus assumed, whether he knows it or not, the divine functions of creating and destroying. . .” - Aldo Leopold, A Sand County Almanac
+> “Whoever owns land has thus assumed, whether he knows it or not, the divine functions of creating and destroying. . .” - Aldo Leopold, A Sand County Almanac
 
 I am fascinated by all the ways in which humans manage the land, from protection to extraction, particularly for agriculture and food security. These land management decisions impact who eats what, while also modifying the land and water that flows on and through it. Land management has even resulted in wholly novel ecosystems with distinct Earth system interactions. As an Earth system scientist and modeler, I take a particular interest in how decisions of land management, in all the ways they are influenced and manifest, can modify regional climates and environments. Understanding how management decisions impact land-climate-water interactions is critical to creating more climate-resilient land management systems in an era of increasing anthropogenic climate change and extremes. Furthermore, decisions of land management are shaped by myriad factors that, in our current global society, extend beyond individual ownership to the whims of global markets and remote demands. Therefore, approaches to develop more climate-resilient modes of land management must deeply engage with human dimensions to evaluate both socioeconomic and biophysical co-benefits trade-offs – a key goal of my research. 
 
