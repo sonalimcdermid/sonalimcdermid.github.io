@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on understanding interactions and feedbacks between regional and global climates, climate change, and agricultural land and resource use. To understand these interactions, I utilize a variety of tools and datasets, including global climate models, emerging agricultural landuse data products, and process-based crop models. With my global network of interdisciplinary collaborators, I have undertaken numerous climate-agroecosystem studies that range from quantifying the effects of agricultural land management on regional climate systems to bracketing climate change impacts on small-holder livelihoods. While my work is situated in a global context, I maintain a particular emphasis on the semi-arid tropics -- a vast, highly-populated and rapidly-developing domain that is acutely vulnerable to global environmental change.     
-My projects are generally grouped by the following core questions:
+“Whoever owns land has thus assumed, whether he knows it or not, the divine functions of creating and destroying. . .” - Aldo Leopold, A Sand County Almanac
 
-1) How does agricultural land management  disturb regional climates and natural ecosystems to drive environmental change?
+I am fascinated by all the ways in which humans manage the land, from protection to extraction, particularly for agriculture and food security. These land management decisions impact who eats what, while also modifying the land and water that flows on and through it. Land management has even resulted in wholly novel ecosystems with distinct Earth system interactions. As an Earth system scientist and modeler, I take a particular interest in how decisions of land management, in all the ways they are influenced and manifest, can modify regional climates and environments. Understanding how management decisions impact land-climate-water interactions is critical to creating more climate-resilient land management systems in an era of increasing anthropogenic climate change and extremes. Furthermore, decisions of land management are shaped by myriad factors that, in our current global society, extend beyond individual ownership to the whims of global markets and remote demands. Therefore, approaches to develop more climate-resilient modes of land management must deeply engage with human dimensions to evaluate both socioeconomic and biophysical co-benefits trade-offs – a key goal of my research. 
 
-2) How does climate change impact agricultural production, particularly in vulnerable regions?
+My research is broadly separated by the following questions:
+1) How does land management, particularly agriculture, impact regional climates and drive environmental change?
 
-3) How can we grow nutritious food that is resilient to change and non-disruptive to regional and global environments?
+2) How do climate and environmental change impact terrestrial ecosystems, particularly agroecosystem production and resulting food security, particularly in monsoonal climates, drylands, and the most vulnerable regions?
 
-4) ADD MISSING Q 
+3) What is the meaningful solution space for meeting land management goals, particularly inclusive of food security, climate adaptation and climate mitigation? 
+
+4) How do we better and more equitably represent the distributional impacts of environmental change on countries, species (human and non-human animals), and ecosystems?
