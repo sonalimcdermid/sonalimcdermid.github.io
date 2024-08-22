@@ -129,7 +129,7 @@ Li, McDermid and Valdivia (under review)
 <span style="color: MediumSeaGreen;"><strong>Regional equity in high-impact climate research</strong></span>
 <br>
   <br>
-<img src="/images/figure_7.png">
+<img width=500 src="/images/figure_7.png">
 <br>
   <br>
 <em>Number of papers found per region by year (a) and totaled by country across the 10 year period (b). (a) China, India and Brazil totals standalone and are not included in the non-Annex 1 total. Included in these totals are all climate change impact studies spanning Nature, Nature Climate Change, PNAS, Science and Science Advances (N=3921)</em>
