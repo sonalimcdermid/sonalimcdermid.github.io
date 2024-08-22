@@ -27,6 +27,6 @@ In 2018, I received NYU’s [Golden Dozen Teaching Award](https://cas.nyu.edu/te
 
 _*Courses I have designed/developed_
 
-For more information on majoring in Environmental Studies, please visit Undergraduate Program of Study on our departmental webpage.
+For more information on majoring in Environmental Studies, please visit [Undergraduate Program of Study](https://as.nyu.edu/environment/undergraduate-program.html) on our departmental webpage.
 
 
