@@ -18,7 +18,7 @@ My research is broadly separated by the following questions:
 
 #### Soil Carbon Losses Reduce Soil Moisture in Global Climate Model Simulations
 
-<div><img width="460" height="300" src="/images/soil_moist_diff.png"></div>
+<br><img width="460" height="300" src="/images/soil_moist_diff.png"></br>
 
 _Soil moisture (130-yr) climatological anomalies (z score) relative to the NoLU experiment for the (a) 2010LU experiment, April–September; (b) 30ST experiment, April–September; Stippled areas are not statistically significant._
 
