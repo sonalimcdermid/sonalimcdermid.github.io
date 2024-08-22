@@ -14,15 +14,25 @@ I am fascinated by all the ways in which humans manage the land, from protection
 My research is broadly separated by the following questions:
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>1) How does land management, particularly agriculture, impact regional climates and drive environmental change?</summary>
 <br>
 This is how you dropdown.
 </details>
 
-1) How does land management, particularly agriculture, impact regional climates and drive environmental change?
+<details>
+<summary>2) How do climate and environmental change impact terrestrial ecosystems, particularly agroecosystem production and resulting food security, particularly in monsoonal climates, drylands, and the most vulnerable regions?</summary>
+<br>
+This is how you dropdown.
+</details>
 
-2) How do climate and environmental change impact terrestrial ecosystems, particularly agroecosystem production and resulting food security, particularly in monsoonal climates, drylands, and the most vulnerable regions?
+<details>
+<summary>3) What is the meaningful solution space for meeting land management goals, particularly inclusive of food security, climate adaptation and climate mitigation?</summary>
+<br>
+This is how you dropdown.
+</details>
 
-3) What is the meaningful solution space for meeting land management goals, particularly inclusive of food security, climate adaptation and climate mitigation? 
-
-4) How do we better and more equitably represent the distributional impacts of environmental change on countries, species (human and non-human animals), and ecosystems?
+<details>
+<summary>4) How do we better and more equitably represent the distributional impacts of environmental change on countries, species (human and non-human animals), and ecosystems?</summary>
+<br>
+This is how you dropdown.
+</details>
