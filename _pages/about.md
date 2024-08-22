@@ -42,9 +42,12 @@ Anthropogenic land-use and land-cover change is primarily represented in climate
 Learn more here: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018JD028874">Singh, McDermid 2018</a>
 </details>
 
+
+
+
 <p>
 <details>
-<summary><strong>2) How do climate and environmental change impact terrestrial ecosystems, particularly agroecosystem production and resulting food security, particularly in monsoonal climates, drylands, and the most vulnerable regions?</summary></strong>
+<summary><strong>2) How do climate and environmental change impact terrestrial ecosystems, particularly agroecosystem production and resulting food security, particularly in monsoonal climates, drylands, and the most vulnerable regions?</strong></summary>
 <br>
 <span style="color: MediumSeaGreen;"><strong>The impact of flooding on food security across Africa</strong></span>
 <br>
@@ -75,11 +78,47 @@ Learn more here: <a href="https://iopscience.iop.org/article/10.1088/1748-9326/a
 </details>
 </p>
 
+
+
 <p>
 <details>
-<summary>3) What is the meaningful solution space for meeting land management goals, particularly inclusive of food security, climate adaptation and climate mitigation?</summary>
+<summary><strong>3) What is the meaningful solution space for meeting land management goals, particularly inclusive of food security, climate adaptation and climate mitigation?</strong></summary>
 <br>
-This is how you dropdown.
+<span style="color: MediumSeaGreen;"><strong>The Impact of Drought on Terrestrial Carbon in the West African Sahel: Implications for Natural Climate Solutions</strong></span>
+<br>
+  <br>
+<img src="/images/figure_5.png">
+<br>
+  <br>
+<em>Above and below ground modeled carbon stock model response from 1901 - 2010. Panels depict (a) z-scores (after taking difference in row 5 Table 2 to identify impact of all forcings) of relative to the 1901-1950 standard deviation and mean of combined live biomass and soil carbon stocks. Individual models are shown in light gray lines, 5th and 95th percentiles are shown in dashed black lines, the multi-model mean is shown in the bold black line, and the 1901-1950 mean value is shown in the red dashed line on each plot; (b) bars show multi-model average of decadal means in combined biotic and soil carbon stock across models in native units, bold black line shows the interannual values of multi-model average in combined biotic and soil carbon stock (native units), and dashed line shows the multi-model 1900-1950 average;</em>
+<br>
+  <br>
+Terrestrial ecosystems store more than twice the carbon of the atmosphere, and play a critical role in climate change mitigation. This has led to a proliferation of land-based carbon sequestration efforts, such as reforestation and afforestation, including semi-arid regions like the West African Sahel (WAS). However, we are currently lacking comprehensive assessment of the long-term viability of these ecosystems’ carbon storage in the context of increasingly severe climate extremes. The WAS is particularly prone to recurrent and disruptive extremes, such as the persistent and severe late-20th century drought. We assessed the response and recovery of WAS carbon stocks and fluxes to the late-20th century drought and the subsequent rainfall recovery by leveraging a suite of terrestrial ecosystem models. While multi-model mean carbon fluxes (e.g., gross primary production, respiration) recovered quickly to pre-drought levels, modeled total ecosystem carbon stock (above and below ground) does not recover even ~20 years after the maximum drought anomaly, falling to as much as two standard deviations below pre-drought levels during this period. Furthermore, to the extent that the modeled regional carbon stock recovers, it is nearly entirely driven by atmospheric CO2 trends rather than the precipitation recovery. Uncertainties in ecosystem carbon simulation are high in this region, as the models’ carbon responses to drought displayed a nearly 10-standard deviation spread. Nevertheless, the multi-model average response highlights the strong and persistent impact of drought on terrestrial carbon storage, and the potential risks of relying on terrestrial ecosystems as a “natural climate solution” for climate change mitigation.
+<br>
+  <br>
+Rigatti et al., (under review)
+<br>
+  <br>
+<span style="color: MediumSeaGreen;"><strong>Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam</strong></span>
+<br>
+  <br>
+<img src="/images/figure_6.png">
+<br>
+  <br>
+<em>Climate smart index. Boxplots show the distribution across management-sites for baseline management and for the three interventions. Red plus signs indicate distributional outliers for the boxplots. The overplotted dots signify mean values across the management-sites for each of the five climate models (simulating SSP2-4.5 for 2050 conditions) identified in the Methods and also in the legend. CSI values closer to +1 indicate higher rice water productivity and reduced CH4 intensity – or more “climate smart” -  while values closer to -1 indicate less climate smart.</em>
+<br>
+  <br>
+Background: Rice is a major contributor to anthropogenic greenhouse gas (GHG) emissions and is severely impacted by the resulting regional climate changes. Identifying crop management interventions to reduce GHG emissions in rice systems while improving productivity is, therefore, critical for climate change mitigation, adaptation, and food security. However, it can be challenging to conduct multivariate assessments of rice interventions in the field owing to the intensiveness of data collection and/or the challenges in considering changing climate conditions. Process-based modeling, evaluated against site-based data, provides an entry point for evaluating the impacts of climate change on rice systems and assessing the impacts, co-benefits, and trade-offs of interventions under historical and future climate conditions.
+Methods: We conduct an integrated assessment using a suite of coupled crop-soil model experiments for 83 rice sites across the Red River Delta, Vietnam, leveraging existing site-based management data. We test three alternative rice management interventions with our coupled crop-soil model, characterized by Alternate Wetting and Drying water management and other principles representing the System of Rice Intensification. Our simulations are forced with historical and future climate conditions represented by five Earth System Models for a medium-ambition climate scenario centered on the year 2050. We evaluate how these interventions compare for multiple biophysical variables and their efficacy under historical and future climate change.
+<br>
+  <br>
+Results: Overall, two SRI interventions increased yields by 50%+ under historical climate conditions while lowering (or not increasing) methane emissions. These interventions also increase yields under future climate conditions relative to baseline management practices, although overall yield declines across all management practices. Yield improvements are also accompanied by improved crop water-use efficiency. However, impacts on methane emissions were mixed across the sites under future climate conditions. Two of the interventions resulted in increased methane emissions, depending on the baseline management point of comparison. However, one intervention consistently reduced methane under historical and future climate conditions and relative to all baseline management systems, although there was considerable variation across five selected climate models. 
+<br>
+  <br>
+Conclusions: AWD and SRI management principles combined with high-yielding varieties, implemented for site-specific conditions, can serve climate adaptation and mitigation goals under historical climate conditions. However, more uncertainty surrounds their ability to serve mitigation under future climate changes. Future work should better bracket important sensitivities of coupled crop-soil models and disentangle which management and climate factors drive the responses shown. Furthermore, future analyses that integrate these findings into socio-economic assessment can better inform if and how SRI/AWD  can potentially benefit farmer livelihoods now and in the future.
+ <br>
+  <br>
+Li, McDermid and Valdivia (under review)
 </details>
 </p>
 
