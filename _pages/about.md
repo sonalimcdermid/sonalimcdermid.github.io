@@ -15,7 +15,6 @@ My research is broadly separated by the following questions:
 <p>
 <details>
 <summary>1) How does land management, particularly agriculture, impact regional climates and drive environmental change?</summary>
-<br>
 
   **Soil Carbon Losses Reduce Soil Moisture in Global Climate Model Simulations**
 
@@ -29,7 +28,6 @@ _Soil moisture (130-yr) climatological anomalies (z score) relative to the NoLU 
   </p>
   <p> Learn more here: <a href="https://journals.ametsoc.org/view/journals/eint/26/1/EI-D-22-0003.1.xml">McDermid et al 2022</a></p>
 </div>
-
 
 ### Distinct influences of land-cover and land-management on seasonal climate
 
