@@ -19,20 +19,27 @@ My research is broadly separated by the following questions:
 This is how you dropdown.
 </details>
 </p>
+
+<p>
 <details>
 <summary>2) How do climate and environmental change impact terrestrial ecosystems, particularly agroecosystem production and resulting food security, particularly in monsoonal climates, drylands, and the most vulnerable regions?</summary>
 <br>
 This is how you dropdown.
 </details>
+</p>
 
+<p>
 <details>
 <summary>3) What is the meaningful solution space for meeting land management goals, particularly inclusive of food security, climate adaptation and climate mitigation?</summary>
 <br>
 This is how you dropdown.
 </details>
+</p>
 
+<p>
 <details>
 <summary>4) How do we better and more equitably represent the distributional impacts of environmental change on countries, species (human and non-human animals), and ecosystems?</summary>
 <br>
 This is how you dropdown.
 </details>
+</p>
