@@ -62,7 +62,7 @@ Learn more here: <a href="https://www.pnas.org/doi/full/10.1073/pnas.2119399119#
 <br>
   <br>
   
-<span style="color: MediumSeaGreen;"><strong>Moisture and temperature influences on nonlinear vegetation trends in Serengeti National Park</stron></span>
+<span style="color: MediumSeaGreen;"><strong>Moisture and temperature influences on nonlinear vegetation trends in Serengeti National Park</strong></span>
 <br>
   <br>
 <img src="/images/figure_4.jpg">
