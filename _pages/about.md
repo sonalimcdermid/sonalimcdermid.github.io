@@ -20,3 +20,11 @@ My research is broadly separated by the following questions:
 3) What is the meaningful solution space for meeting land management goals, particularly inclusive of food security, climate adaptation and climate mitigation? 
 
 4) How do we better and more equitably represent the distributional impacts of environmental change on countries, species (human and non-human animals), and ecosystems?
+
+My research is broadly separated by the following questions:
+
+{% include base_path %}
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
