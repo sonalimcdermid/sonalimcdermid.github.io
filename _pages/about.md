@@ -4,7 +4,6 @@ title: "Research overview"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
 ---
 
 > “Whoever owns land has thus assumed, whether he knows it or not, the divine functions of creating and destroying. . .” - Aldo Leopold, A Sand County Almanac
