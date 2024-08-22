@@ -1,6 +1,6 @@
 ---
 title: "1) How does land management, particularly agriculture, impact regional climates and drive environmental change?"
-excerpt: "Short description of portfolio item number 2"
+excerpt: "Short description of portfolio item number 1"
 collection: portfolio
 ---
 
