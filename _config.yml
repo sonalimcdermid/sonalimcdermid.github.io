@@ -24,11 +24,12 @@ author:
   avatar           : "sonali_pic.jpg"
   name             : "Sonali Shukla McDermid"
   pronouns         : # example: "she/her"  
-  bio              : "Hi! I'm Sonali, a climate scientist and Associate Professor of Environmental Studies at NYU."
+  bio              : "Climate scientist and Associate Professor of Environmental Studies at NYU."
   location         : "New York City"
   employer         : "New York University"
   uri              : # URL
   email            : "sps246@nyu.edu" 
+  CV               : "https://docs.google.com/document/d/1qgAQx0F1_fO5Ve1XdxUj_AWBa6nyBGGp2UCX0zeEVdk/edit" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "sonalimcdermid"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
