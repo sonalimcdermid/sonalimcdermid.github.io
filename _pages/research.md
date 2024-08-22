@@ -74,3 +74,15 @@ Results: Overall, two SRI interventions increased yields by 50%+ under historica
 Conclusions: AWD and SRI management principles combined with high-yielding varieties, implemented for site-specific conditions, can serve climate adaptation and mitigation goals under historical climate conditions. However, more uncertainty surrounds their ability to serve mitigation under future climate changes. Future work should better bracket important sensitivities of coupled crop-soil models and disentangle which management and climate factors drive the responses shown. Furthermore, future analyses that integrate these findings into socio-economic assessment can better inform if and how SRI/AWD  can potentially benefit farmer livelihoods now and in the future.
  
 Li, McDermid and Valdivia (under review)
+
+## 4) How do we better and more equitably represent the distributional impacts of environmental change on countries, species (human and non-human animals), and ecosystems?
+
+### Regional equity in high-impact climate research
+
+<img src="/images/figure_7.png">
+
+_Number of papers found per region by year (a) and totaled by country across the 10 year period (b). (a) China, India and Brazil totals standalone and are not included in the non-Annex 1 total. Included in these totals are all climate change impact studies spanning Nature, Nature Climate Change, PNAS, Science and Science Advances (N=3921)_
+
+Ongoing climate change and extreme events have distributed impacts, disproportionately falling on developing and vulnerable regions. Our understanding of these regions’ climate impacts and options for adaptation is largely informed by peer-reviewed research. Research that makes it to the upper-tier academic journals most often has the highest “impact”, potentially guiding decision-making on climate action, including rising calls to attribute losses and damages. It is therefore crucial that strong research on disproportionately impacted regions appears in these high-impact journals. However, it is unclear (a) to what extent top-tier academic journals publish climate change research on the most vulnerable regions and (b) to what extent these regions’ authors and institutions are represented in these publications. To address these objectives, we employ data science techniques to construct and statistically analyze a dataset of the last decades’ climate research publications, using the provided metadata and complete manuscript texts as data, from top-tier journals. The results of this work will be communicated to increase equity and representation of use-inspired science and academic publishing on regional climate change impacts and adaptation.
+
+Sharma, McDermid, Singh, Bonikowski et al (in prep)
