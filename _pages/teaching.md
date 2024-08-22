@@ -17,6 +17,6 @@ In 2018, I received NYU’s Golden Dozen Teaching Award
 
 * ENVST-UA 100.001 Environmental System Science
 
-*Courses I have designed/developed
+_*Courses I have designed/developed_
 
 For more information on majoring in Environmental Studies, please visit Undergraduate Program of Study on our departmental webpage.
