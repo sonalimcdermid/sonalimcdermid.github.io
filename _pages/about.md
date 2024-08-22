@@ -42,6 +42,7 @@ Anthropogenic land-use and land-cover change is primarily represented in climate
 Learn more here: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018JD028874">Singh, McDermid 2018</a>
 </details>
 
+<p>
 <details>
 <summary><strong>2) How do climate and environmental change impact terrestrial ecosystems, particularly agroecosystem production and resulting food security, particularly in monsoonal climates, drylands, and the most vulnerable regions?</summary></strong>
 <br>
@@ -72,6 +73,7 @@ While long-term vegetation greening trends have appeared across large land areas
   <br>
 Learn more here: <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac1a37/meta">Huang, McDermid et al 2021</a>
 </details>
+</p>
 
 <p>
 <details>
