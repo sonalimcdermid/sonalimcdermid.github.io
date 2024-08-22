@@ -11,11 +11,12 @@ redirect_from:
 I am fascinated by all the ways in which humans manage the land, from protection to extraction, particularly for agriculture and food security. These land management decisions impact who eats what, while also modifying the land and water that flows on and through it. Land management has even resulted in wholly novel ecosystems with distinct Earth system interactions. As an Earth system scientist and modeler, I take a particular interest in how decisions of land management, in all the ways they are influenced and manifest, can modify regional climates and environments. Understanding how management decisions impact land-climate-water interactions is critical to creating more climate-resilient land management systems in an era of increasing anthropogenic climate change and extremes. Furthermore, decisions of land management are shaped by myriad factors that, in our current global society, extend beyond individual ownership to the whims of global markets and remote demands. Therefore, approaches to develop more climate-resilient modes of land management must deeply engage with human dimensions to evaluate both socioeconomic and biophysical co-benefits trade-offs – a key goal of my research. 
 
 My research is broadly separated by the following questions:
-<p>
-<details>
-<summary>1) How does land management, particularly agriculture, impact regional climates and drive environmental change?</summary>
 
-Soil Carbon Losses Reduce Soil Moisture in Global Climate Model Simulations
+<details>
+<summary><strong>1) How does land management, particularly agriculture, impact regional climates and drive environmental change?</strong></summary>
+<br>
+
+**Soil Carbon Losses Reduce Soil Moisture in Global Climate Model Simulations**
 
 <img width="460" height="300" src="/images/soil_moist_diff.png">
 
@@ -25,15 +26,15 @@ Most agricultural soils have experienced substantial soil organic carbon losses 
 
 Learn more here: <a href="https://journals.ametsoc.org/view/journals/eint/26/1/EI-D-22-0003.1.xml">McDermid et al 2022</a>
 
-### Distinct influences of land-cover and land-management on seasonal climate
+**Distinct influences of land-cover and land-management on seasonal climate**
 
 <img src="/images/figure_2.jpg">  
+<br>
 
 Anthropogenic land-use and land-cover change is primarily represented in climate model simulations through prescribed transitions from natural-vegetation to cropland or pasture. However, recent studies have demonstrated that land-management practices, especially irrigation, have distinct climate impacts. Here, we disentangle the seasonal climate impacts of land-cover change and irrigation across areas of high agricultural intensity using climate simulations with three different land-surface scenarios: 1) natural-vegetation cover/no irrigation, 2) Year 2000 crop-cover/no irrigation, and 3) Year 2000 crop-cover and irrigation rates. We find that irrigation substantially amplifies land-cover induced climate impacts but has opposing effects across certain regions. Irrigation mostly causes surface cooling, which substantially amplifies land-cover change-induced cooling in most regions except over Central, West and South Asia, where it reverses land-cover change induced warming. Despite increases in net surface radiation in some regions, this cooling is associated with enhancement of latent relative to sensible heat fluxes by irrigation. Similarly, irrigation substantially enhances the wetting influence of land-cover change over most regions including West Asia and the Mediterranean. The most notable contrasting impacts of these forcings on precipitation occur over South Asia, where irrigation offsets the wetting influence of land-cover during the monsoon season. Changes in regional circulations and moist static energy induced by these forcings contribute to their precipitation impacts and are associated with differential changes in surface and tropospheric temperature gradients and moisture availability. These results emphasize the importance of including irrigation forcing to evaluate the combined climate effects of land-surface changes for attributing historical changes and managing future impacts.
  
 Learn more here: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018JD028874">Singh, McDermid 2018</a>
 </details>
-</p>
 
 <p>
 <details>
