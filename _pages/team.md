@@ -17,6 +17,8 @@ I hold a B.A. in Physics from NYU (2006), and an M.A. (2008), M.Phil. (2011), an
 
 <a href="https://docs.google.com/document/d/1qgAQx0F1_fO5Ve1XdxUj_AWBa6nyBGGp2UCX0zeEVdk/edit)https://docs.google.com/document/d/1qgAQx0F1_fO5Ve1XdxUj_AWBa6nyBGGp2UCX0zeEVdk/edit" download="Sonali_McDermid_Full_CV">Download full CV here</a>
 
+|[Download full CV here](https://docs.google.com/document/d/1qgAQx0F1_fO5Ve1XdxUj_AWBa6nyBGGp2UCX0zeEVdk/edit)|
+|---|
 
 ## <span style="color: MediumSeaGreen;">Margaux Alfare</span>
 
