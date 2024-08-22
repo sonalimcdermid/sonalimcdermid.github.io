@@ -37,7 +37,6 @@ Emma is a senior at NYU double majoring in Environmental Studies and Film. Her c
 <img style="float:left; margin-right: 20px;" width="150" src="/images/Komal_pic.jpeg"> 
 Komal (she/her/hers) comes from Pune, India. Her background is in Computer Science and she worked as a Data Engineer at Citibank for 4 years. Currently, she is studying Data Science at the NYU Center for Data Science. Her long-term aspiration is to get back to the Finance world as a seasoned Data Scientist. She is a planner at heart, love to code and her research interests include Natural Language Processing, Climate Change and Social Sciences. When not glued to the computer screen, Komal likes reading books or trying her hand at still-life photography!
 
----
 ## Past collaborators
 * Connor Reed
 * Ningyuan (Teresa) Huang
