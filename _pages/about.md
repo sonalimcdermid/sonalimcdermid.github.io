@@ -102,7 +102,7 @@ Rigatti et al., (under review)
 <span style="color: MediumSeaGreen;"><strong>Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam</strong></span>
 <br>
   <br>
-<img src="/images/figure_6.png">
+<img width=400 src="/images/figure_6.png">
 <br>
   <br>
 <em>Climate smart index. Boxplots show the distribution across management-sites for baseline management and for the three interventions. Red plus signs indicate distributional outliers for the boxplots. The overplotted dots signify mean values across the management-sites for each of the five climate models (simulating SSP2-4.5 for 2050 conditions) identified in the Methods and also in the legend. CSI values closer to +1 indicate higher rice water productivity and reduced CH4 intensity – or more “climate smart” -  while values closer to -1 indicate less climate smart.</em>
