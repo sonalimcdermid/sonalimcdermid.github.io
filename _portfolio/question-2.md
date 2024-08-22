@@ -6,7 +6,7 @@ collection: portfolio
 
 ### The impact of flooding on food security across Africa
 
-<img src="figure_3.jpg">
+<img src="/images/figure_3.jpg">
 
 Recent record rainfall and flood events have prompted increased attention to flood impacts on human systems. Information regarding flood effects on food security is of particular importance for humanitarian organizations and is especially valuable across Africa's rural areas that contribute to regional food supplies. We quantitatively evaluate where and to what extent flooding impacts food security across Africa, using a Granger causality analysis and panel modeling approaches. Within our modeled areas, we find that ∼12% of the people that experienced food insecurity from 2009 to 2020 had their food security status affected by flooding. Furthermore, flooding and its associated meteorological conditions can simultaneously degrade food security locally while enhancing it at regional spatial scales, leading to large variations in overall food security outcomes. Dedicated data collection at the intersection of flood events and associated food security measures across different spatial and temporal scales are required to better characterize the extent of flood impact and inform preparedness, response, and recovery needs
 
