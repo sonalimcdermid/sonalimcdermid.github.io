@@ -15,8 +15,7 @@ I am a climate scientist and Associate Professor of Environmental Studies at NYU
 
 I hold a B.A. in Physics from NYU (2006), and an M.A. (2008), M.Phil. (2011), and Ph.D. (2012) from the Dept. of Earth and Environmental Sciences at Columbia University, specializing in Atmospheric and Climate Science. Prior to my appointment NYU, I was NASA Postdoctoral Fellow at NASA GISS in NYC.
 
-|[Download full CV here](https://docs.google.com/document/d/1qgAQx0F1_fO5Ve1XdxUj_AWBa6nyBGGp2UCX0zeEVdk/edit)|
-|---|
+[Download full CV here](https://docs.google.com/document/d/1qgAQx0F1_fO5Ve1XdxUj_AWBa6nyBGGp2UCX0zeEVdk/edit)
 
 ## <span style="color: MediumSeaGreen;">Margaux Alfare</span>
 
