@@ -6,7 +6,7 @@ collection: portfolio
 
 ### The Impact of Drought on Terrestrial Carbon in the West African Sahel: Implications for Natural Climate Solutions
 
-<img src='/images/figure_5.png'>
+<img src="/images/figure_5.png">
 
 _Above and below ground modeled carbon stock model response from 1901 - 2010. Panels depict (a) z-scores (after taking difference in row 5 Table 2 to identify impact of all forcings) of relative to the 1901-1950 standard deviation and mean of combined live biomass and soil carbon stocks. Individual models are shown in light gray lines, 5th and 95th percentiles are shown in dashed black lines, the multi-model mean is shown in the bold black line, and the 1901-1950 mean value is shown in the red dashed line on each plot; (b) bars show multi-model average of decadal means in combined biotic and soil carbon stock across models in native units, bold black line shows the interannual values of multi-model average in combined biotic and soil carbon stock (native units), and dashed line shows the multi-model 1900-1950 average;_
 
@@ -16,7 +16,7 @@ Rigatti et al., (under review)
 
 ### Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam
 
-<img src='/images/figure_6.png'>
+<img src="/images/figure_6.png">
 
 _Climate smart index. Boxplots show the distribution across management-sites for baseline management and for the three interventions. Red plus signs indicate distributional outliers for the boxplots. The overplotted dots signify mean values across the management-sites for each of the five climate models (simulating SSP2-4.5 for 2050 conditions) identified in the Methods and also in the legend. CSI values closer to +1 indicate higher rice water productivity and reduced CH4 intensity – or more “climate smart” -  while values closer to -1 indicate less climate smart._
 
