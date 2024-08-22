@@ -13,6 +13,12 @@ I am fascinated by all the ways in which humans manage the land, from protection
 
 My research is broadly separated by the following questions:
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
 1) How does land management, particularly agriculture, impact regional climates and drive environmental change?
 
 2) How do climate and environmental change impact terrestrial ecosystems, particularly agroecosystem production and resulting food security, particularly in monsoonal climates, drylands, and the most vulnerable regions?
