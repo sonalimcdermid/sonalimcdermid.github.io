@@ -9,7 +9,7 @@ My research is broadly separated by the following questions:
 
 ## 1) How does land management, particularly agriculture, impact regional climates and drive environmental change?
 
-### Soil Carbon Losses Reduce Soil Moisture in Global Climate Model Simulations
+<span style="color: MediumSeaGreen;"><strong>Soil Carbon Losses Reduce Soil Moisture in Global Climate Model Simulations</strong></span>
 
 <img width="400" src="/images/soil_moist_diff.png">
 
