@@ -19,7 +19,7 @@ Most agricultural soils have experienced substantial soil organic carbon losses 
 
 Learn more here: <a href="https://journals.ametsoc.org/view/journals/eint/26/1/EI-D-22-0003.1.xml">McDermid et al 2022</a>
 
-### Distinct influences of land-cover and land-management on seasonal climate
+<span style="color: MediumSeaGreen;"><strong>Distinct influences of land-cover and land-management on seasonal climate</strong></span>
 
 <img src="/images/figure_2.jpg">
 
@@ -29,7 +29,7 @@ Learn more here: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/20
 
 ## 2) How do climate and environmental change impact terrestrial ecosystems, particularly agroecosystem production and resulting food security, particularly in monsoonal climates, drylands, and the most vulnerable regions?
 
-### The impact of flooding on food security across Africa
+<span style="color: MediumSeaGreen;"><strong>The impact of flooding on food security across Africa</strong></span>
 
 <img width=600 src="/images/figure_3.jpg">
 
@@ -37,7 +37,7 @@ Recent record rainfall and flood events have prompted increased attention to flo
 
 Learn more here: <a href="https://www.pnas.org/doi/full/10.1073/pnas.2119399119#:~:text=Floods%20impact%20food%20security%20for,insecurity%20during%20our%20study%20period">Reed et al 2022</a>
 
-### Moisture and temperature influences on nonlinear vegetation trends in Serengeti National Park
+<span style="color: MediumSeaGreen;"><strong>Moisture and temperature influences on nonlinear vegetation trends in Serengeti National Park</strong></span>
 
 <img width=400 src="/images/figure_4.jpg">
 
@@ -50,7 +50,7 @@ Learn more here: <a href="https://iopscience.iop.org/article/10.1088/1748-9326/a
 
 ## 3) What is the meaningful solution space for meeting land management goals, particularly inclusive of food security, climate adaptation and climate mitigation? 
 
-### The Impact of Drought on Terrestrial Carbon in the West African Sahel: Implications for Natural Climate Solutions
+<span style="color: MediumSeaGreen;"><strong>The Impact of Drought on Terrestrial Carbon in the West African Sahel: Implications for Natural Climate Solutions</strong></span>
 
 <img src="/images/figure_5.png">
 
@@ -60,7 +60,7 @@ Terrestrial ecosystems store more than twice the carbon of the atmosphere, and p
 
 Rigatti et al., (under review)
 
-### Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam
+<span style="color: MediumSeaGreen;"><strong>Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam</strong></span>
 
 <img width=500 src="/images/figure_6.png">
 
@@ -77,7 +77,7 @@ Li, McDermid and Valdivia (under review)
 
 ## 4) How do we better and more equitably represent the distributional impacts of environmental change on countries, species (human and non-human animals), and ecosystems?
 
-### Regional equity in high-impact climate research
+<span style="color: MediumSeaGreen;"><strong>Regional equity in high-impact climate research</strong></span>
 
 <img width=500 src="/images/figure_7.png">
 
