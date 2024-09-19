@@ -11,7 +11,7 @@ My research is broadly separated by the following questions:
 
 ### Soil Carbon Losses Reduce Soil Moisture in Global Climate Model Simulations
 
-<img width="460" height="300" src="/images/soil_moist_diff.png"> 
+<img width="400" src="/images/soil_moist_diff.png">
 
 _Soil moisture (130-yr) climatological anomalies (z score) relative to the NoLU experiment for the (a) 2010LU experiment, April–September; (b) 30ST experiment, April–September; Stippled areas are not statistically significant._
 
@@ -21,7 +21,7 @@ Learn more here: <a href="https://journals.ametsoc.org/view/journals/eint/26/1/E
 
 ### Distinct influences of land-cover and land-management on seasonal climate
 
-<img src="/images/figure_2.jpg">  
+<img src="/images/figure_2.jpg">
 
 Anthropogenic land-use and land-cover change is primarily represented in climate model simulations through prescribed transitions from natural-vegetation to cropland or pasture. However, recent studies have demonstrated that land-management practices, especially irrigation, have distinct climate impacts. Here, we disentangle the seasonal climate impacts of land-cover change and irrigation across areas of high agricultural intensity using climate simulations with three different land-surface scenarios: 1) natural-vegetation cover/no irrigation, 2) Year 2000 crop-cover/no irrigation, and 3) Year 2000 crop-cover and irrigation rates. We find that irrigation substantially amplifies land-cover induced climate impacts but has opposing effects across certain regions. Irrigation mostly causes surface cooling, which substantially amplifies land-cover change-induced cooling in most regions except over Central, West and South Asia, where it reverses land-cover change induced warming. Despite increases in net surface radiation in some regions, this cooling is associated with enhancement of latent relative to sensible heat fluxes by irrigation. Similarly, irrigation substantially enhances the wetting influence of land-cover change over most regions including West Asia and the Mediterranean. The most notable contrasting impacts of these forcings on precipitation occur over South Asia, where irrigation offsets the wetting influence of land-cover during the monsoon season. Changes in regional circulations and moist static energy induced by these forcings contribute to their precipitation impacts and are associated with differential changes in surface and tropospheric temperature gradients and moisture availability. These results emphasize the importance of including irrigation forcing to evaluate the combined climate effects of land-surface changes for attributing historical changes and managing future impacts.
  
@@ -31,7 +31,7 @@ Learn more here: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/20
 
 ### The impact of flooding on food security across Africa
 
-<img src="/images/figure_3.jpg">
+<img width=600 src="/images/figure_3.jpg">
 
 Recent record rainfall and flood events have prompted increased attention to flood impacts on human systems. Information regarding flood effects on food security is of particular importance for humanitarian organizations and is especially valuable across Africa's rural areas that contribute to regional food supplies. We quantitatively evaluate where and to what extent flooding impacts food security across Africa, using a Granger causality analysis and panel modeling approaches. Within our modeled areas, we find that ∼12% of the people that experienced food insecurity from 2009 to 2020 had their food security status affected by flooding. Furthermore, flooding and its associated meteorological conditions can simultaneously degrade food security locally while enhancing it at regional spatial scales, leading to large variations in overall food security outcomes. Dedicated data collection at the intersection of flood events and associated food security measures across different spatial and temporal scales are required to better characterize the extent of flood impact and inform preparedness, response, and recovery needs
 
@@ -39,7 +39,7 @@ Learn more here: <a href="https://www.pnas.org/doi/full/10.1073/pnas.2119399119#
 
 ### Moisture and temperature influences on nonlinear vegetation trends in Serengeti National Park
 
-<img src="/images/figure_4.jpg">
+<img width=400 src="/images/figure_4.jpg">
 
 _Monthly plots of LAI3g Trend categorization: Brown = monotonic browning; GtoB = reversal from greening to browning; BtoG = reversal from browning to greening; Green = monotonic greening; NaN denotes the remaining Trend has more than one extrema and cannot be classified in any of these categories; overplotted on some grid cells is black hatch lines, denoting that our surrogate test indicates the monotonic greening or browning Trend is significant at 0.05 level._
 
@@ -62,7 +62,7 @@ Rigatti et al., (under review)
 
 ### Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam
 
-<img src="/images/figure_6.png">
+<img width=500 src="/images/figure_6.png">
 
 _Climate smart index. Boxplots show the distribution across management-sites for baseline management and for the three interventions. Red plus signs indicate distributional outliers for the boxplots. The overplotted dots signify mean values across the management-sites for each of the five climate models (simulating SSP2-4.5 for 2050 conditions) identified in the Methods and also in the legend. CSI values closer to +1 indicate higher rice water productivity and reduced CH4 intensity – or more “climate smart” -  while values closer to -1 indicate less climate smart._
 
@@ -79,7 +79,7 @@ Li, McDermid and Valdivia (under review)
 
 ### Regional equity in high-impact climate research
 
-<img src="/images/figure_7.png">
+<img width=500 src="/images/figure_7.png">
 
 _Number of papers found per region by year (a) and totaled by country across the 10 year period (b). (a) China, India and Brazil totals standalone and are not included in the non-Annex 1 total. Included in these totals are all climate change impact studies spanning Nature, Nature Climate Change, PNAS, Science and Science Advances (N=3921)_
 
