@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Climate scientist and Associate Professor of Environmental Studies at NYU."
   location         : "New York City"
-  employer         : "New York University"
+  employer         : "https://as.nyu.edu/departments/environment.html"
   uri              : # URL
   email            : "sps246@nyu.edu" 
   cv               : "https://docs.google.com/document/d/1qgAQx0F1_fO5Ve1XdxUj_AWBa6nyBGGp2UCX0zeEVdk/edit"
