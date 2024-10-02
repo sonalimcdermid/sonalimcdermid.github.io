@@ -9,7 +9,7 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
 
 # Under revision and in preperation
 
-* Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam.
+* <span style="color: MediumSeaGreen;"><strong>Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam.</strong></span>
 Li, T., S.S. McDermid*, R. Valdivia, and P. Sundaram. 
 *Corresponding author
 
