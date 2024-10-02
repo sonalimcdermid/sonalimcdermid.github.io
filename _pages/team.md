@@ -39,9 +39,9 @@ Komal (she/her/hers) comes from Pune, India. Her background is in Computer Scien
 
 
 ## Past collaborators
-* <a href="connor.reed@aquabyte.ai">Connor Reed</a>, Machine Learning Engineer at Aquabyte.
-* Ningyuan (Teresa) Huang
-* Alex Bollington
+* Patrick Andrews, Graduate Research Assistant/PhD Candidate, Department of Earth and Planetary Sciences at University of Texas at Austin. Contact: patrickandrews@utexas.edu
+* Alex Bollington, Academic Administrator, Department of Environmental Studies at New York University. Contact: arb653@nyu.edu
 * Aarati Cohly
-* Patrick Andrews
 * Megan Davis
+* Ningyuan (Teresa) Huang
+* Connor Reed, Machine Learning Engineer at <a href="https://aquabyte.ai/">Aquabyte</a>. Contact: connor.reed@aquabyte.ai
