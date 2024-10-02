@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 
-# <span style="color: MediumSeaGreen;">Under revision and in preperation</span>
+# <span style="color: MediumSeaGreen;">Under Review and In-prep</span>
 
 * <strong>Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam.</strong>
 Li, T., S.S. McDermid*, R. Valdivia, and P. Sundaram. 
@@ -17,7 +17,6 @@ Yao, Yi, Wim Thiery Agnes Ducharne, Benjamin I Cook, Anxin Ding, Steven J. De He
 
 * <strong>Regional Equity in High-Impact Climate Change Research.</strong>
 Sharma, K., S.S. McDermid*, D. Singh. 
-*Corresponding author
 
 * <strong>Where does irrigation matter for climate? The role of Indo-Gangetic Basin farmlands in the South Asian Monsoon response to irrigation.</strong>
 McDermid, S.S., M-H Lo, D. Singh, Y. Pokhrel, B.I. Cook, and R. Mahmood.
@@ -28,13 +27,13 @@ Veronika J. Redensek, Sonali McDermid, Deepti Singh, and Geeta Persad.
 
 # <span style="color: MediumSeaGreen;">Published</span>
 
-* <strong>The Impact of Drought on Terrestrial Carbon in the West African Sahel: Implications for Natural Climate Solutions</strong></span>(2024). Rigatti, E., S.S. McDermid*, B.I Cook and M. DeKauwe. (accepted in JGR Biogeosciences, forthcoming)
+* <strong>The Impact of Drought on Terrestrial Carbon in the West African Sahel: Implications for Natural Climate Solutions.</strong> Rigatti, E., S.S. McDermid*, B.I Cook and M. DeKauwe, 2024. (accepted in JGR Biogeosciences, forthcoming)
 
-* <strong>El Niño and positive Indian Ocean Dipole conditions simultaneously reduce the production of multiple cereals across India</strong>(2024). Gurazada, M., S.S. McDermid, R. DeFries, K. F. Davis, J. Singh, D. Singh. (accepted in Environmental Research Letters, forthcoming)
+* <strong>El Niño and positive Indian Ocean Dipole conditions simultaneously reduce the production of multiple cereals across India</strong> Gurazada, M., S.S. McDermid, R. DeFries, K. F. Davis, J. Singh, D. Singh, 2024. (accepted in Environmental Research Letters, forthcoming)
 
-*  <strong><a href="https://doi.org/10.1175/EI-D-23-0006.1">Diverging Global Dry and Humid Heat Responses to Present-day Irrigation under Present-day Anthropogenic Forcings, AMS Earth Interactions</a> <strong>(2023). Chiang, F., B.I. Cook and S.S. McDermid. 
+* <strong><a href="https://doi.org/10.1175/EI-D-23-0006.1">Diverging Global Dry and Humid Heat Responses to Present-day Irrigation under Present-day Anthropogenic Forcings, AMS Earth Interactions</a> </strong> Chiang, F., B.I. Cook and S.S. McDermid, 2023.
 
-* <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103949">Anthropogenic aerosols delay the emergence of GHGs-forced wetting of South Asian rainy seasons under a fossil-fuel intensive pathway</a>, Geophysical Research Letters, 2023. Singh, J. , B. I. Cook, K. Marvel, S. McDermid, G. Persad, B. Rajaratnam and D. Singh
+* <strong><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103949">Anthropogenic aerosols delay the emergence of GHGs-forced wetting of South Asian rainy seasons under a fossil-fuel intensive pathway.</a></strong> Singh, J. , B. I. Cook, K. Marvel, S. McDermid, G. Persad, B. Rajaratnam and D. Singh, 2023.
 
   
 
