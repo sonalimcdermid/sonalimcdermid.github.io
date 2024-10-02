@@ -11,7 +11,6 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
 
 * <strong>Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam.</strong>
 Li, T., S.S. McDermid*, R. Valdivia, and P. Sundaram. 
-*Corresponding author
 
 * <strong>Impacts of irrigation expansion on moist-heat stress: First results from IRRMIP.</strong>
 Yao, Yi, Wim Thiery Agnes Ducharne, Benjamin I Cook, Anxin Ding, Steven J. De Hertog, Petra Sieber, Lukas Gudmundsson, Kjetil Schanke Aas, Pedro F. Arboleda-Obando, Jeanne Colin, Maya Costantini, Bertrand Decharme, David M. Lawrence, Peter Lawrence, L. Ruby Leung, Min-Hui Lo, Devaraju Narayanappa, Will Wieder, Ren-Jie Wu, Tian Zhou, Jonas Jagermeyr, Sonali McDermid, Paul Munoz, Yadu Pokhrel, Sonia I. Seneviratne. 
@@ -36,5 +35,9 @@ Veronika J. Redensek, Sonali McDermid, Deepti Singh, and Geeta Persad.
 * <a href="https://doi.org/10.1175/EI-D-23-0006.1">Diverging Global Dry and Humid Heat Responses to Present-day Irrigation under Present-day Anthropogenic Forcings, AMS Earth Interactions</a>. (2023). Chiang, F.❖, B.I. Cook and S.S. McDermid. 
 
 * Anthropogenic aerosols delay the emergence of GHGs-forced wetting of South Asian rainy seasons under a fossil-fuel intensive pathway, Geophysical Research Letters, 2023. Singh, J. , B. I. Cook, K. Marvel, S. McDermid, G. Persad, B. Rajaratnam and D. Singh
+
+  
+
+*Corresponding author
 
 
