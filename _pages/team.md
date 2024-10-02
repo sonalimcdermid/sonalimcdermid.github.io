@@ -39,7 +39,7 @@ Komal (she/her/hers) comes from Pune, India. Her background is in Computer Scien
 
 
 ## Past collaborators
-* Connor Reed
+* <a href="connor.reed@aquabyte.ai">Connor Reed</a>, Machine Learning Engineer at Aquabyte.
 * Ningyuan (Teresa) Huang
 * Alex Bollington
 * Aarati Cohly
