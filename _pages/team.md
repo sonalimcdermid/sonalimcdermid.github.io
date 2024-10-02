@@ -40,10 +40,10 @@ Komal (she/her/hers) comes from Pune, India. Her background is in Computer Scien
 
 ## Past collaborators
 * <strong>Patrick Andrews</strong>
-  * Graduate Research Assistant/PhD Candidate, Department of Earth and Planetary Sciences at University of Texas at Austin.
+  * Graduate Research Assistant/PhD Candidate, <a href="https://eps.jsg.utexas.edu/">Department of Earth and Planetary Sciences</a> at University of Texas at Austin.
   * Contact: patrickandrews@utexas.edu
 * <strong>Alex Bollington</strong>
-  * Academic Administrator, Department of Environmental Studies at New York University.
+  * Academic Administrator, <a href="https://as.nyu.edu/departments/environment.html">Department of Environmental Studies</a> at New York University.
   * Contact: arb653@nyu.edu
 * <strong>Aarati Cohly</strong>
 * <strong>Megan Davis</strong>
