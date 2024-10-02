@@ -39,9 +39,15 @@ Komal (she/her/hers) comes from Pune, India. Her background is in Computer Scien
 
 
 ## Past collaborators
-* <strong>Patrick Andrews</strong>, Graduate Research Assistant/PhD Candidate, Department of Earth and Planetary Sciences at University of Texas at Austin. Contact: patrickandrews@utexas.edu
-* <strong>Alex Bollington</strong>, Academic Administrator, Department of Environmental Studies at New York University. Contact: arb653@nyu.edu
+* <strong>Patrick Andrews</strong>
+  * Graduate Research Assistant/PhD Candidate, Department of Earth and Planetary Sciences at University of Texas at Austin.
+  * Contact: patrickandrews@utexas.edu
+* <strong>Alex Bollington</strong>
+  * Academic Administrator, Department of Environmental Studies at New York University.
+  * Contact: arb653@nyu.edu
 * <strong>Aarati Cohly</strong>
 * <strong>Megan Davis</strong>
 * <strong>Ningyuan (Teresa) Huang</strong>
-* <strong>Connor Reed</strong>, Machine Learning Engineer at <a href="https://aquabyte.ai/">Aquabyte</a>. Contact: connor.reed@aquabyte.ai
+* <strong>Connor Reed</strong>
+  * Machine Learning Engineer at <a href="https://aquabyte.ai/">Aquabyte</a>.
+  * Contact: connor.reed@aquabyte.ai
