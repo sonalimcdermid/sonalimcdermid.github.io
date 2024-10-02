@@ -9,12 +9,15 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+
 # Under revision
 
-Li, T., S.S. McDermid*, R. Valdivia, and P. Sundaram. Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam. (resubmitted, pending decision)
+Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam. (resubmitted, pending decision)
+Li, T., S.S. McDermid*, R. Valdivia, and P. Sundaram. 
 *Corresponding author
 
-Yao, Yi, Wim Thiery Agnes Ducharne, Benjamin I Cook, Anxin Ding, Steven J. De Hertog, Petra Sieber, Lukas Gudmundsson, Kjetil Schanke Aas, Pedro F. Arboleda-Obando, Jeanne Colin, Maya Costantini, Bertrand Decharme, David M. Lawrence, Peter Lawrence, L. Ruby Leung, Min-Hui Lo, Devaraju Narayanappa, Will Wieder, Ren-Jie Wu, Tian Zhou, Jonas Jagermeyr, Sonali McDermid, Paul Munoz, Yadu Pokhrel, Sonia I. Seneviratne. Impacts of irrigation expansion on moist-heat stress: First results from IRRMIP (under review)
+Impacts of irrigation expansion on moist-heat stress: First results from IRRMIP (under review)
+Yao, Yi, Wim Thiery Agnes Ducharne, Benjamin I Cook, Anxin Ding, Steven J. De Hertog, Petra Sieber, Lukas Gudmundsson, Kjetil Schanke Aas, Pedro F. Arboleda-Obando, Jeanne Colin, Maya Costantini, Bertrand Decharme, David M. Lawrence, Peter Lawrence, L. Ruby Leung, Min-Hui Lo, Devaraju Narayanappa, Will Wieder, Ren-Jie Wu, Tian Zhou, Jonas Jagermeyr, Sonali McDermid, Paul Munoz, Yadu Pokhrel, Sonia I. Seneviratne. 
 
 Sharma, K., S.S. McDermid*, D. Singh. Regional Equity in High-Impact Climate Change Research (in prep)
 *Corresponding author
