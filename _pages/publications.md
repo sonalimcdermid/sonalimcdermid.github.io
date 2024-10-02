@@ -9,21 +9,21 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
 
 # Under revision and in preperation
 
-* <span style="color: MediumSeaGreen;"><strong>Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam.</strong></span>
+* <strong>Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam.</strong>
 Li, T., S.S. McDermid*, R. Valdivia, and P. Sundaram. 
 *Corresponding author
 
-* <span style="color: MediumSeaGreen;"><strong>Impacts of irrigation expansion on moist-heat stress: First results from IRRMIP.</strong></span>
+* <strong>Impacts of irrigation expansion on moist-heat stress: First results from IRRMIP.</strong>
 Yao, Yi, Wim Thiery Agnes Ducharne, Benjamin I Cook, Anxin Ding, Steven J. De Hertog, Petra Sieber, Lukas Gudmundsson, Kjetil Schanke Aas, Pedro F. Arboleda-Obando, Jeanne Colin, Maya Costantini, Bertrand Decharme, David M. Lawrence, Peter Lawrence, L. Ruby Leung, Min-Hui Lo, Devaraju Narayanappa, Will Wieder, Ren-Jie Wu, Tian Zhou, Jonas Jagermeyr, Sonali McDermid, Paul Munoz, Yadu Pokhrel, Sonia I. Seneviratne. 
 
-* <span style="color: MediumSeaGreen;"><strong>Regional Equity in High-Impact Climate Change Research.</strong></span>
+* <strong>Regional Equity in High-Impact Climate Change Research.</strong>
 Sharma, K., S.S. McDermid*, D. Singh. 
 *Corresponding author
 
-* <span style="color: MediumSeaGreen;"><strong>Where does irrigation matter for climate? The role of Indo-Gangetic Basin farmlands in the South Asian Monsoon response to irrigation.</strong></span>
+* <strong>Where does irrigation matter for climate? The role of Indo-Gangetic Basin farmlands in the South Asian Monsoon response to irrigation.</strong>
 McDermid, S.S., M-H Lo, D. Singh, Y. Pokhrel, B.I. Cook, and R. Mahmood.
 
-* <span style="color: MediumSeaGreen;"><strong>Nonlinear Response of the Surface Energy Balance to Changes in Anthropogenic Aerosols and Irrigation Over South Asia.</strong></span>
+* <strong>Nonlinear Response of the Surface Energy Balance to Changes in Anthropogenic Aerosols and Irrigation Over South Asia.</strong>
 Veronika J. Redensek, Sonali McDermid, Deepti Singh, and Geeta Persad.
 
 
