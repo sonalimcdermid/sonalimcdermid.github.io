@@ -12,19 +12,22 @@ author_profile: true
 
 # Under revision
 
-Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam. (resubmitted, pending decision)
+* Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam. (resubmitted, pending decision)
 Li, T., S.S. McDermid*, R. Valdivia, and P. Sundaram. 
 *Corresponding author
 
-Impacts of irrigation expansion on moist-heat stress: First results from IRRMIP (under review)
+* Impacts of irrigation expansion on moist-heat stress: First results from IRRMIP (under review)
 Yao, Yi, Wim Thiery Agnes Ducharne, Benjamin I Cook, Anxin Ding, Steven J. De Hertog, Petra Sieber, Lukas Gudmundsson, Kjetil Schanke Aas, Pedro F. Arboleda-Obando, Jeanne Colin, Maya Costantini, Bertrand Decharme, David M. Lawrence, Peter Lawrence, L. Ruby Leung, Min-Hui Lo, Devaraju Narayanappa, Will Wieder, Ren-Jie Wu, Tian Zhou, Jonas Jagermeyr, Sonali McDermid, Paul Munoz, Yadu Pokhrel, Sonia I. Seneviratne. 
 
-Sharma, K., S.S. McDermid*, D. Singh. Regional Equity in High-Impact Climate Change Research (in prep)
+* Regional Equity in High-Impact Climate Change Research (in prep)
+Sharma, K., S.S. McDermid*, D. Singh. 
 *Corresponding author
 
-McDermid, S.S., M-H Lo, D. Singh, Y. Pokhrel, B.I. Cook, and R. Mahmood. Where does irrigation matter for climate? The role of Indo-Gangetic Basin farmlands in the South Asian Monsoon response to irrigation. (in prep)
+* Where does irrigation matter for climate? The role of Indo-Gangetic Basin farmlands in the South Asian Monsoon response to irrigation. (in prep)
+McDermid, S.S., M-H Lo, D. Singh, Y. Pokhrel, B.I. Cook, and R. Mahmood.
 
-Veronika J. Redensek, Sonali McDermid, Deepti Singh, and Geeta Persad. Nonlinear Response of the Surface Energy Balance to Changes in Anthropogenic Aerosols and Irrigation Over South Asia. (in prep)
+* Nonlinear Response of the Surface Energy Balance to Changes in Anthropogenic Aerosols and Irrigation Over South Asia. (in prep)
+Veronika J. Redensek, Sonali McDermid, Deepti Singh, and Geeta Persad.
 
 
 # Published
