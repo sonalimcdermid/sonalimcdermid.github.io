@@ -11,7 +11,7 @@ In 2018, I received NYU’s [Golden Dozen Teaching Award](https://cas.nyu.edu/te
 
 * ENVST-UA 950.001 [Honors Thesis](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://as.nyu.edu/content/dam/nyu-as/environment/documents/Syllabi/spring-2024/ENVST-UA_950_%20Honors_Seminar_McDermid_S24.pdf)
 
-* ENVST-UA 900.001 [Environmental Studies Senior Seminar](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://as.nyu.edu/content/dam/nyu-as/environment/documents/Syllabi/fall-2023/ENVST-UA%20900%20Syllabus%20Fall%202023.pdf)
+* ENVST-UA 900.001 [Environmental Studies Senior Seminar](https://docs.google.com/document/d/1TsJJs2AEHAKhhcBYPJEgCXUb-cA64jYW/edit#heading=h.gjdgxs)
   
 ### Previous or Recurring courses
 
