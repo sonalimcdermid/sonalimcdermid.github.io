@@ -9,21 +9,21 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
 
 # Under revision and in preperation
 
-* <span style="color: MediumSeaGreen;"><strong>Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam.</strong></span>
+* <span style="color: MediumSeaGreen;">Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam.</span>
 Li, T., S.S. McDermid*, R. Valdivia, and P. Sundaram. 
 *Corresponding author
 
-* Impacts of irrigation expansion on moist-heat stress: First results from IRRMIP
+* <span style="color: MediumSeaGreen;">Impacts of irrigation expansion on moist-heat stress: First results from IRRMIP.</span>
 Yao, Yi, Wim Thiery Agnes Ducharne, Benjamin I Cook, Anxin Ding, Steven J. De Hertog, Petra Sieber, Lukas Gudmundsson, Kjetil Schanke Aas, Pedro F. Arboleda-Obando, Jeanne Colin, Maya Costantini, Bertrand Decharme, David M. Lawrence, Peter Lawrence, L. Ruby Leung, Min-Hui Lo, Devaraju Narayanappa, Will Wieder, Ren-Jie Wu, Tian Zhou, Jonas Jagermeyr, Sonali McDermid, Paul Munoz, Yadu Pokhrel, Sonia I. Seneviratne. 
 
-* Regional Equity in High-Impact Climate Change Research
+* <span style="color: MediumSeaGreen;">Regional Equity in High-Impact Climate Change Research.</span>
 Sharma, K., S.S. McDermid*, D. Singh. 
 *Corresponding author
 
-* Where does irrigation matter for climate? The role of Indo-Gangetic Basin farmlands in the South Asian Monsoon response to irrigation.
+* <span style="color: MediumSeaGreen;">Where does irrigation matter for climate? The role of Indo-Gangetic Basin farmlands in the South Asian Monsoon response to irrigation.</span>
 McDermid, S.S., M-H Lo, D. Singh, Y. Pokhrel, B.I. Cook, and R. Mahmood.
 
-* Nonlinear Response of the Surface Energy Balance to Changes in Anthropogenic Aerosols and Irrigation Over South Asia.
+* <span style="color: MediumSeaGreen;">Nonlinear Response of the Surface Energy Balance to Changes in Anthropogenic Aerosols and Irrigation Over South Asia.</span>
 Veronika J. Redensek, Sonali McDermid, Deepti Singh, and Geeta Persad.
 
 
