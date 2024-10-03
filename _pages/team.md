@@ -47,8 +47,8 @@ Komal (she/her/hers) comes from Pune, India. Her background is in Computer Scien
   * Contact: arb653@nyu.edu
 * <strong>Aarati Cohly</strong>
 * <strong>Megan Davis</strong>
- * Ph.D. Candidate, Menge Lubchenco Lab in the <a href="https://ib.oregonstate.edu/">Department of Integrative Biology</a> at Oregon State University. 
- * Contact: davisme2@oregonstate.edu
+  * Ph.D. Candidate, Menge Lubchenco Lab in the <a href="https://ib.oregonstate.edu/">Department of Integrative Biology</a> at Oregon State University. 
+  * Contact: davisme2@oregonstate.edu
 * <strong>Ningyuan (Teresa) Huang</strong>
 * <strong>Connor Reed</strong>
   * Machine Learning Engineer at <a href="https://aquabyte.ai/">Aquabyte</a>.
