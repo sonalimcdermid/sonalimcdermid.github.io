@@ -40,16 +40,18 @@ Komal (she/her/hers) comes from Pune, India. Her background is in Computer Scien
 
 ## Past collaborators
 * <strong>Patrick Andrews</strong>
-  * Graduate Research Assistant/PhD Candidate, <a href="https://eps.jsg.utexas.edu/">Department of Earth and Planetary Sciences</a> at University of Texas at Austin.
+  * Graduate Research Assistant/PhD Candidate at the <a href="https://eps.jsg.utexas.edu/">Department of Earth and Planetary Sciences</a>, University of Texas at Austin.
   * Contact: patrickandrews@utexas.edu
 * <strong>Alex Bollington</strong>
-  * Academic Administrator, <a href="https://as.nyu.edu/departments/environment.html">Department of Environmental Studies</a> at New York University.
+  * Academic Administrator at the <a href="https://as.nyu.edu/departments/environment.html">Department of Environmental Studies</a>, New York University.
   * Contact: arb653@nyu.edu
 * <strong>Aarati Cohly</strong>
 * <strong>Megan Davis</strong>
-  * Ph.D. Candidate, Menge Lubchenco Lab in the <a href="https://ib.oregonstate.edu/">Department of Integrative Biology</a> at Oregon State University. 
+  * Ph.D. Candidate in Menge Lubchenco Lab at the <a href="https://ib.oregonstate.edu/">Department of Integrative Biology</a>, Oregon State University. 
   * Contact: davisme2@oregonstate.edu
-* <strong>Ningyuan (Teresa) Huang</strong>
+* <strong>Teresa Huang</strong>
+  * Flatiron Research Fellow at <a href="https://www.simonsfoundation.org/flatiron/">Flatiron Institute, Simons Foundation</a>.
+  * Contact: thuang@flatironinstitute.org
 * <strong>Connor Reed</strong>
   * Machine Learning Engineer at <a href="https://aquabyte.ai/">Aquabyte</a>.
   * Contact: connor.reed@aquabyte.ai
