@@ -46,6 +46,8 @@ Komal (she/her/hers) comes from Pune, India. Her background is in Computer Scien
   * Academic Administrator at the <a href="https://as.nyu.edu/departments/environment.html">Department of Environmental Studies</a>, New York University.
   * Contact: arb653@nyu.edu
 * <strong>Aarati Cohly</strong>
+  * MBA Candidate at <a href="https://www.wharton.upenn.edu/">The Wharton School</a>, University of Pennsylvania.
+  * Contact: aarati.cohly@gmail.com
 * <strong>Megan Davis</strong>
   * Ph.D. Candidate in Menge Lubchenco Lab at the <a href="https://ib.oregonstate.edu/">Department of Integrative Biology</a>, Oregon State University. 
   * Contact: davisme2@oregonstate.edu
