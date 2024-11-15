@@ -27,6 +27,8 @@ Veronika J. Redensek, Sonali McDermid, Deepti Singh, and Geeta Persad.
 
 # <span style="color: MediumSeaGreen;">Published</span>
 
+* <a href="https://link.springer.com/article/10.1186/s43170-024-00308-0#Ack1">Climate change mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam.</a> Li, T., S. McDermid, R. O.Valdivia, and P. Sundaram, 2024.
+  
 * <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JG008143">The Impact of Drought on Terrestrial Carbon in the West African Sahel: Implications for Natural Climate Solutions.</a> Rigatti, E., S.S. McDermid*, B.I Cook and M. DeKauwe, 2024.
 
 * <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ad6a6f">El Niño and positive Indian Ocean Dipole conditions simultaneously reduce the production of multiple cereals across India.</a> Gurazada, M., S.S. McDermid, R. DeFries, K. F. Davis, J. Singh, D. Singh, 2024.
