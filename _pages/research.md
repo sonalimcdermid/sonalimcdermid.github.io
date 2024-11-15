@@ -73,7 +73,7 @@ Results: Overall, two SRI interventions increased yields by 50%+ under historica
 
 Conclusions: AWD and SRI management principles combined with high-yielding varieties, implemented for site-specific conditions, can serve climate adaptation and mitigation goals under historical climate conditions. However, more uncertainty surrounds their ability to serve mitigation under future climate changes. Future work should better bracket important sensitivities of coupled crop-soil models and disentangle which management and climate factors drive the responses shown. Furthermore, future analyses that integrate these findings into socio-economic assessment can better inform if and how SRI/AWD  can potentially benefit farmer livelihoods now and in the future.
  
-Li, McDermid and Valdivia (under review)
+Learn more here: <a href="https://link.springer.com/article/10.1186/s43170-024-00308-0#Ack1">Li et al. 2024</a>
 
 ## 4) How do we better and more equitably represent the distributional impacts of environmental change on countries, species (human and non-human animals), and ecosystems?
 
