@@ -96,7 +96,7 @@ Learn more here: <a href="https://iopscience.iop.org/article/10.1088/1748-9326/a
 Terrestrial ecosystems store more than twice the carbon of the atmosphere, and play a critical role in climate change mitigation. This has led to a proliferation of land-based carbon sequestration efforts, such as reforestation and afforestation, including semi-arid regions like the West African Sahel (WAS). However, we are currently lacking comprehensive assessment of the long-term viability of these ecosystems’ carbon storage in the context of increasingly severe climate extremes. The WAS is particularly prone to recurrent and disruptive extremes, such as the persistent and severe late-20th century drought. We assessed the response and recovery of WAS carbon stocks and fluxes to the late-20th century drought and the subsequent rainfall recovery by leveraging a suite of terrestrial ecosystem models. While multi-model mean carbon fluxes (e.g., gross primary production, respiration) recovered quickly to pre-drought levels, modeled total ecosystem carbon stock (above and below ground) does not recover even ~20 years after the maximum drought anomaly, falling to as much as two standard deviations below pre-drought levels during this period. Furthermore, to the extent that the modeled regional carbon stock recovers, it is nearly entirely driven by atmospheric CO2 trends rather than the precipitation recovery. Uncertainties in ecosystem carbon simulation are high in this region, as the models’ carbon responses to drought displayed a nearly 10-standard deviation spread. Nevertheless, the multi-model average response highlights the strong and persistent impact of drought on terrestrial carbon storage, and the potential risks of relying on terrestrial ecosystems as a “natural climate solution” for climate change mitigation.
 <br>
   <br>
-Rigatti et al., (under review)
+Learn more here: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JG008143">Rigatti et al. 2024</a>
 <br>
   <br>
 <span style="color: MediumSeaGreen;"><strong>Climate mitigation and adaptation for rice-based farming systems in the Red River Delta, Vietnam</strong></span>
@@ -118,7 +118,7 @@ Results: Overall, two SRI interventions increased yields by 50%+ under historica
 Conclusions: AWD and SRI management principles combined with high-yielding varieties, implemented for site-specific conditions, can serve climate adaptation and mitigation goals under historical climate conditions. However, more uncertainty surrounds their ability to serve mitigation under future climate changes. Future work should better bracket important sensitivities of coupled crop-soil models and disentangle which management and climate factors drive the responses shown. Furthermore, future analyses that integrate these findings into socio-economic assessment can better inform if and how SRI/AWD  can potentially benefit farmer livelihoods now and in the future.
  <br>
   <br>
-Li, McDermid and Valdivia (under review)
+Learn more here: <a href="https://link.springer.com/article/10.1186/s43170-024-00308-0#Ack1">Li et al. 2024</a>
 </details>
 </p>
 
