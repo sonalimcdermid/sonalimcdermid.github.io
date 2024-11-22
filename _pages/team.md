@@ -19,7 +19,7 @@ I hold a B.A. in Physics from NYU (2006), and an M.A. (2008), M.Phil. (2011), an
 
 ## <span style="color: MediumSeaGreen;">Margaux Alfare</span>
 
-<img style="float:left; margin-right: 20px;" width="150" src="/images/Margaux_pic.png">
+<img style="float:left; margin-right: 20px;" width="150" src="/images/Margaux_headshot.jpg">
 Margaux is an early-career climate professional, currently serving as an Associate Research Scientist at NYU's Environmental Studies Department, where she uses programming languages like Matlab for statistical analyses on geospatial data, creates visuals for scientific publications, and conducts literature reviews on key research topics. She obtained her MA Climate and Society from Columbia University’s Climate School in 2023. Margaux's research expertise includes topics like industry decarbonization, urban resilience, and coastal adaptation strategies. She holds a BA in Environment and Political Science from McGill University, and previously worked as a Community Outreach Coordinator in a homeless shelter before relocating in NYC.
 
 ## <span style="color: MediumSeaGreen;">Anika Amidon</span>
