@@ -20,7 +20,7 @@ I hold a B.A. in Physics from NYU (2006), and an M.A. (2008), M.Phil. (2011), an
 ## <span style="color: MediumSeaGreen;">Margaux Alfare</span>
 
 <img style="float:left; margin-right: 20px;" width="150" src="/images/Margaux_bio.png">
-Margaux is a Researcher in Sonali McDermid's lab, specializing in climate and land-use data analysis. She uses high-level programming languages (i.e. Matlab, Python) to analyze multi-dimensional geospatial datasets, perform statistical analyses, and create visuals for scientific publications. She obtained her MA Climate and Society from Columbia University’s Climate School in 2023. Margaux's research expertise includes topics like industry decarbonization, urban resilience, and coastal adaptation strategies. She holds a BA in Environment and Political Science from McGill University, and previously worked as a Community Outreach Coordinator in a homeless shelter before relocating to NYC.
+Margaux is a Researcher in Sonali McDermid's lab, specializing in climate and land-use data analysis. She uses high-level programming languages (i.e. Matlab, Python) to analyze multi-dimensional geospatial datasets, perform statistical analyses, and create visuals for scientific publications. She also conducts research to examine the characteristics and carbon accounting of offset projects in India. She obtained her MA Climate and Society from Columbia University’s Climate School in 2023, and previously worked as a Community Outreach Coordinator in a homeless shelter before relocating to NYC.
 
 
 ## <span style="color: MediumSeaGreen;">Anika Amidon</span>
