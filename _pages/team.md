@@ -13,14 +13,15 @@ I am a climate scientist and Associate Professor of Environmental Studies at NYU
 
 ### Education
 
-I hold a B.A. in Physics from NYU (2006), and an M.A. (2008), M.Phil. (2011), and Ph.D. (2012) from the Dept. of Earth and Environmental Sciences at Columbia University, specializing in Atmospheric and Climate Science. Prior to my appointment NYU, I was NASA Postdoctoral Fellow at NASA GISS in NYC.
+I hold a B.A. in Physics from NYU (2006), and an M.A. (2008), M.Phil. (2011), and Ph.D. (2012) from the Dept. of Earth and Environmental Sciences at Columbia University, specializing in Atmospheric and Climate Science. Prior to my appointment at NYU, I was a NASA Postdoctoral Fellow at NASA GISS in NYC.
 
 [Download full CV here](https://docs.google.com/document/d/1qgAQx0F1_fO5Ve1XdxUj_AWBa6nyBGGp2UCX0zeEVdk/edit)
 
 ## <span style="color: MediumSeaGreen;">Margaux Alfare</span>
 
 <img style="float:left; margin-right: 20px;" width="150" src="/images/Margaux_bio.png">
-Margaux is a Researcher in Sonali McDermid's lab, where she uses programming languages like Matlab and Python for statistical analyses on geospatial data, creates visuals for scientific publications, and conducts literature reviews on key research topics. She obtained her MA Climate and Society from Columbia University’s Climate School in 2023. Margaux's research expertise includes topics like industry decarbonization, urban resilience, and coastal adaptation strategies. She holds a BA in Environment and Political Science from McGill University, and previously worked as a Community Outreach Coordinator in a homeless shelter before relocating in NYC.
+Margaux is a Researcher in Sonali McDermid's lab, specializing in climate and land-use data analysis. She uses high-level programming languages (i.e. Matlab, Python) to analyze multi-dimensional geospatial datasets, perform statistical analyses, and create visuals for scientific publications. She obtained her MA Climate and Society from Columbia University’s Climate School in 2023. Margaux's research expertise includes topics like industry decarbonization, urban resilience, and coastal adaptation strategies. She holds a BA in Environment and Political Science from McGill University, and previously worked as a Community Outreach Coordinator in a homeless shelter before relocating to NYC.
+
 
 ## <span style="color: MediumSeaGreen;">Anika Amidon</span>
 
