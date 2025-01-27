@@ -52,6 +52,9 @@ Komal (she/her/hers) comes from Pune, India. Her background is in Computer Scien
 * <strong>Megan Davis</strong>
   * Ph.D. Candidate in Menge Lubchenco Lab at the <a href="https://ib.oregonstate.edu/">Department of Integrative Biology</a>, Oregon State University. 
   * Contact: davisme2@oregonstate.edu
+* <strong>Rocky Farnell</strong>
+  * Undergraduate Research Assistant, Climate Chnage and Immigrants in NYC at the <a href="https://as.nyu.edu/departments/environment.html">Department of Environmental Studies</a>, New York University.
+  * Contact: rrf8931@nyu.edu
 * <strong>Teresa Huang</strong>
   * Flatiron Research Fellow at <a href="https://www.simonsfoundation.org/flatiron/">Flatiron Institute, Simons Foundation</a>.
   * Contact: thuang@flatironinstitute.org
