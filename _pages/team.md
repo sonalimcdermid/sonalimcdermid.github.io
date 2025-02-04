@@ -30,7 +30,7 @@ Anika is an undergraduate student, originally from Rome, New York, pursuing her 
 
 ## <span style="color: MediumSeaGreen;">Rocky Farnell</span>
 
-<img style="float:left; margin-right: 20px;" width="150" src="/images/Rocky_pic.jpeg"> 
+<img style="float:left; margin-right: 20px;" width="150" src="/images/Rocky_pic.jpeg">
 Rocky Farnell is a senior in Environmental Studies, minoring in Social and Cultural Analysis and French Studies. She is currently the Undergraduate Research Assistant on Professor McDermid's study, Climate Change and Immigrants in NYC, focusing on stakeholder mapping and synthesizing relevant literature on the disproportionate impacts of climate change on migrant workers. As an aspiring environmental lawyer, she is currently writing her senior thesis on the difficulties of fulfilling the burden of proof of causation in tort lawsuits against fossil fuel companies. Having grown up in Portland, OR, Rocky is passionate about backpacking and spending time in nature.
 
 
