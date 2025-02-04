@@ -28,6 +28,12 @@ Margaux is a Researcher in Sonali McDermid's lab, specializing in climate and la
 <img style="float:left; margin-right: 20px;" width="150" src="/images/Anika_pic.jpg"> 
 Anika is an undergraduate student, originally from Rome, New York, pursuing her degree in Environmental Studies with a minor in Biology. For her senior thesis, she is currently working on a case study of best-use climate mitigation strategies in India across primary mitigation sectors and dimensions of potential trade-offs and co-benefits. Following graduation, Anika plans to continue her studies and research at Cambridge University, joining the Crop Sciences program within their School of Biological Sciences. She hope to spring from this study into the field of agricultural research, specifically working within plant genetics to explore climate-resilient crop adaptations, applying this to dynamics of food security. Beyond her academic pursuits, Anika enjoys teaching and taking yoga and ballet classes, improving her language skills through immersive travel, and spending time outdoors hiking, swimming, reading, and gardening with her friends and family.
 
+## <span style="color: MediumSeaGreen;">Rocky Farnell</span>
+
+<img style="float:left; margin-right: 20px;" width="150" src="/images/Rocky_pic.jpeg"> 
+Rocky Farnell is a senior in Environmental Studies, minoring in Social and Cultural Analysis and French Studies. She is currently the Undergraduate Research Assistant on Professor McDermid's study, Climate Change and Immigrants in NYC, focusing on stakeholder mapping and synthesizing relevant literature on the disproportionate impacts of climate change on migrant workers. As an aspiring environmental lawyer, she is currently writing her senior thesis on the difficulties of fulfilling the burden of proof of causation in tort lawsuits against fossil fuel companies. Having grown up in Portland, OR, Rocky is passionate about backpacking and spending time in nature.
+
+
 ## <span style="color: MediumSeaGreen;">Emma Rigatti</span>
 
 <img style="float:left; margin-right: 20px;" width="150" src="/images/Emma_pic.jpg"> 
