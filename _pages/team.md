@@ -39,6 +39,11 @@ Rocky Farnell is a senior in Environmental Studies, minoring in Social and Cultu
 <img style="float:left; margin-right: 20px;" width="150" src="/images/Emma_pic.jpg"> 
 Emma is a senior at NYU double majoring in Environmental Studies and Film. Her current research involves using land-system models to explore the impact of drought on ecosystem carbon dynamics in the West African Sahel. Her academic interests lie in understanding how the competing environmental factors on stomatal conductance influence ecosystem energy, carbon, and water exchanges as well as the implications for human systems. She will be attending UCSB starting Fall 2024 to pursue a Ph.D. in Environmental Science and Management
 
+## <span style="color: MediumSeaGreen;">Ram Singh</span>
+
+<img style="float:left; margin-right: 20px;" width="150" src="/images/Ram_pic.jpg"> 
+Ram Singh is a climate scientist and modeler specializing in uncertainty quantification in regional climate projections. His research focuses on land-atmosphere interactions, feedbacks, and responses to various climate forcings—including volcanic eruptions, greenhouse gases (GHGs), and land use and land cover (LULC) changes—as well as climate interventions, using state-of-the-art Earth system models (NASA GISS ModelE and NCAR CESM2). He is also affiliated with the NASA Goddard Institute for Space Studies (GISS), where he contributes to the development of the land surface and other components of the NASA GISS ModelE climate model. Previously, he was a postdoctoral research scientist at the Columbia Climate School at Columbia University and NASA GISS, where he studied the regional and global climate impacts of past volcanic eruptions, with a particular focus on potential links between these events and Egyptian history in antiquity. He got his Master's and PhD degrees in atmospheric science from IIT Delhi, India. 
+
 ## <span style="color: MediumSeaGreen;">Komal Sharma</span>
 
 <img style="float:left; margin-right: 20px;" width="150" src="/images/Komal_pic.jpeg"> 
