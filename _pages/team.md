@@ -50,7 +50,7 @@ Ram Singh is a climate scientist and modeler specializing in uncertainty quantif
 Komal (she/her/hers) comes from Pune, India. Her background is in Computer Science and she worked as a Data Engineer at Citibank for 4 years. Currently, she is studying Data Science at the NYU Center for Data Science. Her long-term aspiration is to get back to the Finance world as a seasoned Data Scientist. She is a planner at heart, love to code and her research interests include Natural Language Processing, Climate Change and Social Sciences. When not glued to the computer screen, Komal likes reading books or trying her hand at still-life photography!
 
 
-## Past collaborators
+## Past Lab Members
 * <strong>Patrick Andrews</strong>
   * Graduate Research Assistant/PhD Candidate at the <a href="https://eps.jsg.utexas.edu/">Department of Earth and Planetary Sciences</a>, University of Texas at Austin.
   * Contact: patrickandrews@utexas.edu
