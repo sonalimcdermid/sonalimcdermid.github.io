@@ -22,12 +22,6 @@ I hold a B.A. in Physics from NYU (2006), and an M.A. (2008), M.Phil. (2011), an
 <img style="float:left; margin-right: 20px;" width="150" src="/images/Margaux_bio.png">
 Margaux is a Researcher in Sonali McDermid's lab, specializing in climate and land-use data analysis. She uses high-level programming languages (i.e. Matlab, Python) to analyze multi-dimensional geospatial datasets, perform statistical analyses, and create visuals for scientific publications. She also conducts research to examine the characteristics and carbon accounting of offset projects in India. She obtained her MA Climate and Society from Columbia University’s Climate School in 2023, and previously worked as a Community Outreach Coordinator in a homeless shelter before relocating to NYC.
 
-
-## <span style="color: MediumSeaGreen;">Anika Amidon</span>
-
-<img style="float:left; margin-right: 20px;" width="150" src="/images/Anika_pic.jpg"> 
-Anika is an undergraduate student, originally from Rome, New York, pursuing her degree in Environmental Studies with a minor in Biology. For her senior thesis, she is currently working on a case study of best-use climate mitigation strategies in India across primary mitigation sectors and dimensions of potential trade-offs and co-benefits. Following graduation, Anika plans to continue her studies and research at Cambridge University, joining the Crop Sciences program within their School of Biological Sciences. She hope to spring from this study into the field of agricultural research, specifically working within plant genetics to explore climate-resilient crop adaptations, applying this to dynamics of food security. Beyond her academic pursuits, Anika enjoys teaching and taking yoga and ballet classes, improving her language skills through immersive travel, and spending time outdoors hiking, swimming, reading, and gardening with her friends and family.
-
 ## <span style="color: MediumSeaGreen;">Rocky Farnell</span>
 
 <img style="float:left; margin-right: 20px;" width="150" src="/images/Rocky_pic.jpeg">
@@ -51,6 +45,9 @@ Komal (she/her/hers) comes from Pune, India. Her background is in Computer Scien
 
 
 ## Past Lab Members
+* <strong>Anika Amidon</strong>
+  * Mphil Student in Crop Science at the <a href="https://www.plantsci.cam.ac.uk/">Department of Plant Sciences</a>, University of Cambridge
+  * Contact: ala531@nyu.edu
 * <strong>Patrick Andrews</strong>
   * Graduate Research Assistant/PhD Candidate at the <a href="https://eps.jsg.utexas.edu/">Department of Earth and Planetary Sciences</a>, University of Texas at Austin.
   * Contact: patrickandrews@utexas.edu
