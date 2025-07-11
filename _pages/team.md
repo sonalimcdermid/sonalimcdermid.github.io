@@ -51,7 +51,7 @@ Emma is a climate mobility researcher and policy specialist. Her current researc
 
 ## Past Lab Members
 * <strong>Anika Amidon</strong>
-  * Mphil Student in Crop Science at the <a href="https://www.plantsci.cam.ac.uk/">Department of Plant Sciences</a>, University of Cambridge
+  * Mphil Student in Crop Science at the <a href="https://www.plantsci.cam.ac.uk/">Department of Plant Sciences</a>, University of Cambridge.
   * Contact: ala531@nyu.edu
 * <strong>Patrick Andrews</strong>
   * Graduate Research Assistant/PhD Candidate at the <a href="https://eps.jsg.utexas.edu/">Department of Earth and Planetary Sciences</a>, University of Texas at Austin.
