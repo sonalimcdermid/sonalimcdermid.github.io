@@ -32,15 +32,15 @@ Sasha is a junior at NYU Gallatin concentrating in Environmental Science, Econom
 <img style="float:left; margin-right: 20px;" width="150" src="/images/Emma_pic.jpg"> 
 Emma is a senior at NYU double majoring in Environmental Studies and Film. Her current research involves using land-system models to explore the impact of drought on ecosystem carbon dynamics in the West African Sahel. Her academic interests lie in understanding how the competing environmental factors on stomatal conductance influence ecosystem energy, carbon, and water exchanges as well as the implications for human systems. She will be attending UCSB starting Fall 2024 to pursue a Ph.D. in Environmental Science and Management
 
-## <span style="color: MediumSeaGreen;">Ram Singh</span>
-
-<img style="float:left; margin-right: 20px;" width="150" src="/images/Ram_pic.jpg"> 
-Ram is a climate scientist and modeler specializing in uncertainty quantification in regional climate projections. His research focuses on land-atmosphere interactions, feedbacks, and responses to various climate forcings—including volcanic eruptions, greenhouse gases (GHGs), and land use and land cover (LULC) changes—as well as climate interventions, using state-of-the-art Earth system models (NASA GISS ModelE and NCAR CESM2). He is also affiliated with the NASA Goddard Institute for Space Studies (GISS), where he contributes to the development of the land surface and other components of the NASA GISS ModelE climate model. Previously, he was a postdoctoral research scientist at the Columbia Climate School at Columbia University and NASA GISS, where he studied the regional and global climate impacts of past volcanic eruptions, with a particular focus on potential links between these events and Egyptian history in antiquity. He got his Master's and PhD degrees in atmospheric science from IIT Delhi, India. 
-
 ## <span style="color: MediumSeaGreen;">Komal Sharma</span>
 
 <img style="float:left; margin-right: 20px;" width="150" src="/images/Komal_pic.jpeg"> 
 Komal (she/her/hers) comes from Pune, India. Her background is in Computer Science and she worked as a Data Engineer at Citibank for 4 years. Currently, she is studying Data Science at the NYU Center for Data Science. Her long-term aspiration is to get back to the Finance world as a seasoned Data Scientist. She is a planner at heart, love to code and her research interests include Natural Language Processing, Climate Change and Social Sciences. When not glued to the computer screen, Komal likes reading books or trying her hand at still-life photography!
+
+## <span style="color: MediumSeaGreen;">Ram Singh</span>
+
+<img style="float:left; margin-right: 20px;" width="150" src="/images/Ram_pic.jpg"> 
+Ram is a climate scientist and modeler specializing in uncertainty quantification in regional climate projections. His research focuses on land-atmosphere interactions, feedbacks, and responses to various climate forcings—including volcanic eruptions, greenhouse gases (GHGs), and land use and land cover (LULC) changes—as well as climate interventions, using state-of-the-art Earth system models (NASA GISS ModelE and NCAR CESM2). He is also affiliated with the NASA Goddard Institute for Space Studies (GISS), where he contributes to the development of the land surface and other components of the NASA GISS ModelE climate model. Previously, he was a postdoctoral research scientist at the Columbia Climate School at Columbia University and NASA GISS, where he studied the regional and global climate impacts of past volcanic eruptions, with a particular focus on potential links between these events and Egyptian history in antiquity. He got his Master's and PhD degrees in atmospheric science from IIT Delhi, India. 
 
 ## <span style="color: MediumSeaGreen;">Emma Winkley</span>
 
