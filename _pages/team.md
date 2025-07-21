@@ -27,11 +27,6 @@ Margaux is a Researcher in Sonali McDermid's lab, specializing in climate and la
 <img style="float:left; margin-right: 20px;" width="150" src="/images/Sasha_pic.jpg">
 Sasha is a junior at NYU Gallatin concentrating in Environmental Science, Economics, and Applied Mathematics, with a minor in Computer Science. Her current research focuses on the intersection of climate variability, food security, and maternal health in rural Ghana. Sasha develops data-processing pipelines in R and Excel to clean, merge, and validate household survey datasets. She conducts both exploratory and inferential statistical analyses—including summary statistics, regression modeling, and sensitivity testing—to evaluate how climate conditions affect health and food access, with particular attention to time-use coping strategies. She also improves survey instrument reliability by performing item-response diagnostics and error-rate analyses to inform revisions in question design. Additionally, Sasha uses network analysis and systems-thinking frameworks to map interactions between climate stressors, resource access, and adaptive behavior, with the goal of informing healthcare policy responses to climate change.
 
-## <span style="color: MediumSeaGreen;">Emma Rigatti</span>
-
-<img style="float:left; margin-right: 20px;" width="150" src="/images/Emma_pic.jpg"> 
-Emma is a senior at NYU double majoring in Environmental Studies and Film. Her current research involves using land-system models to explore the impact of drought on ecosystem carbon dynamics in the West African Sahel. Her academic interests lie in understanding how the competing environmental factors on stomatal conductance influence ecosystem energy, carbon, and water exchanges as well as the implications for human systems. She will be attending UCSB starting Fall 2024 to pursue a Ph.D. in Environmental Science and Management
-
 ## <span style="color: MediumSeaGreen;">Komal Sharma</span>
 
 <img style="float:left; margin-right: 20px;" width="150" src="/images/Komal_pic.jpeg"> 
@@ -74,3 +69,6 @@ Emma is a climate mobility researcher and policy specialist. Her current researc
 * <strong>Connor Reed</strong>
   * Machine Learning Engineer at <a href="https://aquabyte.ai/">Aquabyte</a>.
   * Contact: connor.reed@aquabyte.ai
+* <strong>Emma Rigatti</strong>
+  * PhD Candidate at the <a href="https://bren.ucsb.edu/">Bren School of Environmental Science and Management</a>, UC Santa Barbara.
+  * Contact: erigatti@bren.ucsb.edu
