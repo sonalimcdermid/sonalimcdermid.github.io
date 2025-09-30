@@ -5,4 +5,4 @@ permalink: /data-and-material/
 author_profile: true
 ---
 
-## Rice Mitigation and Adaptation - Shared Formats
+## <span style="color: MediumSeaGreen;">Rice Mitigation and Adaptation - Shared Formats</span>
