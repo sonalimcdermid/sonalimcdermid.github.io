@@ -13,6 +13,9 @@ main:
 
   - title: "Recent Publications"
     url: /publications/
+
+  - title: "Data and Material"
+    url: /data-and-material/
     
   - title: "Teaching"
     url: /teaching/
