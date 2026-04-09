@@ -27,6 +27,12 @@ Margaux is a Researcher in Sonali McDermid's lab, specializing in climate and la
 <img style="float:left; margin-right: 20px;" width="150" src="/images/Sasha_pic.jpg">
 Sasha is a junior at NYU Gallatin concentrating in Environmental Science, Economics, and Applied Mathematics, with a minor in Computer Science. Her current research focuses on the intersection of climate variability, food security, and maternal health in rural Ghana. Sasha develops data-processing pipelines in R and Excel to clean, merge, and validate household survey datasets. She conducts both exploratory and inferential statistical analyses—including summary statistics, regression modeling, and sensitivity testing—to evaluate how climate conditions affect health and food access, with particular attention to time-use coping strategies. She also improves survey instrument reliability by performing item-response diagnostics and error-rate analyses to inform revisions in question design. Additionally, Sasha uses network analysis and systems-thinking frameworks to map interactions between climate stressors, resource access, and adaptive behavior, with the goal of informing healthcare policy responses to climate change.
 
+## <span style="color: MediumSeaGreen;">Kat Morgan</span>
+
+<img style="float:left; margin-right: 20px;" width="150" src="/images/Kat Morgan Headshot.jpeg">
+Kat Morgan is a doctoral student in Environmental Studies at New York University, specializing in Food and Land Use Systems. Her research examines how agricultural and environmental conditions affect nutritional and ecological outcomes in food systems, with a particular focus on legume plants (Fabaceae). Her work explores nutrient flows within food systems, encompassing crop composition, agricultural practices, and food value chains. Drawing on expertise in environmental studies, environmental health sciences, and cultural anthropology, she employs a transdisciplinary approach to investigate nutrient dynamics and quality in legume-based agroecosystems. Kat holds a Master of Public Health in Environmental Health Sciences from Columbia University. She also hosts the award-winning Oh Crop! Food Systems Podcast, which examines the future of food through the perspectives of environmental justice, climate change, and public health.
+
+
 ## <span style="color: MediumSeaGreen;">Komal Sharma</span>
 
 <img style="float:left; margin-right: 20px;" width="150" src="/images/Komal_pic.jpeg"> 
