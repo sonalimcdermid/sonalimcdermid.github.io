@@ -27,6 +27,11 @@ Margaux is a Researcher in Sonali McDermid's lab, specializing in climate and la
 <img style="float:left; margin-right: 20px;" width="150" src="/images/Sasha_pic.jpg">
 Sasha is a senior at NYU Gallatin concentrating in Environmental Science, Economics, and Applied Mathematics, with a minor in Computer Science. Her current research focuses on the intersection of climate variability, food security, and maternal health in rural Ghana. Sasha develops data-processing pipelines in R and Excel to clean, merge, and validate household survey datasets. She conducts both exploratory and inferential statistical analyses—including summary statistics, regression modeling, and sensitivity testing—to evaluate how climate conditions affect health and food access, with particular attention to time-use coping strategies. She also improves survey instrument reliability by performing item-response diagnostics and error-rate analyses to inform revisions in question design. Additionally, Sasha uses network analysis and systems-thinking frameworks to map interactions between climate stressors, resource access, and adaptive behavior, with the goal of informing healthcare policy responses to climate change.
 
+## <span style="color: MediumSeaGreen;">Theodore Levin</span>
+
+<img style="float:left; margin-right: 20px;" width="150" src="/images/Theo-Levin-pic.png">
+Theo is a senior at NYU CAS, double majoring in Environmental Studies and Art History with a minor in Physics. His current research involves the analysis of different Earth System Model outputs to quantify asymmetric climate system responses to Carbon Dioxide Removal (CDR) implementation. Using Python and R in tandem to extract, clean, and visually present environmental data, Theo works to communicate complex climate dynamics in easy-to-understand terms. With a research interest in atmospheric science and a longstanding obsession with weather, Theo also enjoys being a personal meteorologist for his friends and family.
+
 ## <span style="color: MediumSeaGreen;">Kat Morgan</span>
 
 <img style="float:left; margin-right: 20px;" width="150" src="/images/Kat Morgan Headshot.JPEG">
